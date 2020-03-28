@@ -13,10 +13,10 @@ tags:
 ![]("images/iHaveDream.png")
 
 <table><tr><td>
-    <img src="images/iHaveDream.png" />
+    <img src="/images/iHaveDream.png" />
 </td></tr></table>
-Source: Washington DC, 2014, by Vic Cuspinera  
-  
+
+*Source: Washington DC, 2014, by Vic Cuspinera*  
   
 Opportunity cost was what bring me to Vancouver last August, and probably to the most MDS’s classmates.  
 
