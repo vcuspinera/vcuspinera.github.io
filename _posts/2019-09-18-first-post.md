@@ -10,8 +10,14 @@ tags:
 <i>I have a dream.</i>
 <span style="color:gray">-Martin Luther King</span>
 
-![]("\images\iHaveDream.png")
+![]("images/iHaveDream.png")
 
+<table><tr><td>
+    <img src="images/iHaveDream.png" />
+</td></tr></table>
+Source: Washington DC, 2014, by Vic Cuspinera  
+  
+  
 Opportunity cost was what bring me to Vancouver last August, and probably to the most MDS’s classmates.  
 
 I hear about Data Science around 2014, while as a student in North Carolina State I met Miguel. He told me about this cool program that he was just about to finish: Analytics, the predecessor of Data Science programs.  
