@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-My name is Victor Hugo as [the French writter](https://en.wikipedia.org/wiki/Victor_Hugo). I grew up in the West Coast of Mexico and, as result, I like the sound of the ocean and getting caught in the warm rain.
+My name is Victor Hugo as [the French writter](https://en.wikipedia.org/wiki/Victor_Hugo). I grew up in the East Coast of Mexico, and as result, I like Pina Colada, getting caught in the warm rain, and the sound of the ocean.
 
 I have studied in the three countries that celebrate the [NAFTA (nowadays USMCA)](https://en.wikipedia.org/wiki/United_States–Mexico–Canada_Agreement): Actuarial Science in Mexico, Economics in the U.S.A., and Data Science in Canada. Also, I have experience as Analyst and Researcher in the [Central Bank of Mexico](https://www.banxico.org.mx/indexen.html).
 
