@@ -7,10 +7,8 @@ tags:
   - dream
 ---
 
-<i>I have a dream.</i>
+<i>I have a dream.</i>  
 <span style="color:gray">-Martin Luther King</span>
-
-![]("images/iHaveDream.png")
 
 <table><tr><td>
     <img src="images/iHaveDream.png" />
