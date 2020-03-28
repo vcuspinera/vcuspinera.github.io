@@ -13,7 +13,7 @@ tags:
 <span style="color:gray">- Martin Luther King</span>
 
 <table><tr><td>
-    <img src="/images/iHaveDream.png" />
+    <img src="/images/iHaveDream.png" alt="I have a Dream too" />
 </td></tr></table>
 
 *Source: Washington DC, 2014, by Vic Cuspinera*  
