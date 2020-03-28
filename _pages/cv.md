@@ -75,18 +75,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
 Service and leadership
 ======================
 * 2013-2014: Volunteer at Lonerider Microbrewery, where I participated with a group of volunteers in different activities that varied on the needs of the company.
