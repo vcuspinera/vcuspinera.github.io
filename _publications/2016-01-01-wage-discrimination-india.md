@@ -2,11 +2,11 @@
 title: "Caste and Religion-Based Wage Discrimination in the Indian Private Sector: Evidence from the Indian Human Development Survey"
 collection: publications
 permalink: /publication/2016-01-01-wage-discrimination-india
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 
 date: 2016-01-01
 venue: 'The Review of Black Political Economy'
 paperurl: 'https://journals.sagepub.com/doi/full/10.1007/s12114-016-9235-8'
-citation: 'Axmann, N., Swanson, K. & Cuspinera-Contreras, V. &quot;Caste and Religion-Based Wage Discrimination in the Indian Private Sector: Evidence from the Indian Human Development Survey.&quot; <i>Rev Black Polit Econ 43<i>, 165–175 (2016). DOI https://doi.org/10.1007/s12114-016-9235-8'
+citation: "Axmann, N., Swanson, K. & Cuspinera-Contreras, V. &quot;Caste and Religion-Based Wage Discrimination in the Indian Private Sector: Evidence from the Indian Human Development Survey.&quot; <i>Rev Black Polit Econ 43<i>, 165–175 (2016)."
 ---
 
 **Abstract**
@@ -14,4 +14,4 @@ Using data from the [Indian Human Development Survey](https://www.ihds.umd.edu),
 
 [Download paper here](https://journals.sagepub.com/doi/pdf/10.1007/s12114-016-9235-8)
 
-Recommended citation: 'Axmann, N., Swanson, K. & Cuspinera-Contreras, V. &quot;Caste and Religion-Based Wage Discrimination in the Indian Private Sector: Evidence from the Indian Human Development Survey.&quot; <i>Rev Black Polit Econ 43<i>, 165–175 (2016). DOI https://doi.org/10.1007/s12114-016-9235-8'
+Recommended citation: "Axmann, N., Swanson, K. & Cuspinera-Contreras, V. &quot;Caste and Religion-Based Wage Discrimination in the Indian Private Sector: Evidence from the Indian Human Development Survey.&quot; <i>Rev Black Polit Econ 43<i>, 165–175 (2016). DOI https://doi.org/10.1007/s12114-016-9235-8"
