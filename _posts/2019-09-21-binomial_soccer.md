@@ -12,7 +12,7 @@ tags:
 <i>“To be or not to be ..nomial"</i>  
 <span style="color:gray">- Statistical bad joke based on William Shakespeare, by me.</span>
 
-<img src="https://media0.giphy.com/media/KnSm1GhuvUjFm/giphy.gif" width="200" alt="Goalkeeper Sweety" align="middle" />
+<center><img src="https://media0.giphy.com/media/KnSm1GhuvUjFm/giphy.gif" width="200" alt="goalkeeper"  /></center>
 
 *Source: [Goalkeeper Sweety GIF](https://media0.giphy.com/media/KnSm1GhuvUjFm/giphy.gif), via GIPHY*  
 
