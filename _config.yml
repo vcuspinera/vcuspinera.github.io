@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Victor Cuspinera"
-  avatar           : "profile.png"
+  avatar           : "vic_profile.png"
   bio              : "Researcher, Data Scientist, Actuary, Economist, excelent Cooker, and good Swimmer."
   location         : "Vancouver, BC"
   employer         : #"Banco de Mexico"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
