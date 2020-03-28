@@ -12,12 +12,9 @@ tags:
 <i>“To be or not to be ..nomial"</i>  
 <span style="color:gray">- Statistical bad joke based on William Shakespeare, by me.</span>
 
-<table><tr><td>
-    <img src="https://media0.giphy.com/media/KnSm1GhuvUjFm/giphy.gif" width="200"/>
-</td></tr></table>
+<img src="https://media0.giphy.com/media/KnSm1GhuvUjFm/giphy.gif" width="200"/>
 
-*Source: https://media0.giphy.com/media/KnSm1GhuvUjFm/giphy.gif, via GIPHY*  
-
+*Source: [Goalkeeper Sweety GIF](https://media0.giphy.com/media/KnSm1GhuvUjFm/giphy.gif), via GIPHY*  
 
 In Mexico there are two specific things you probably have learn since kid: eat chile and soccer game. The second one is required. Maybe, you could unknow a lot of important things in life -as math, biology or statistics- but for sure you would know about soccer.
   
