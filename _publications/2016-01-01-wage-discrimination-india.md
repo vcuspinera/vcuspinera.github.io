@@ -5,7 +5,7 @@ permalink: /publication/2016-01-01-wage-discrimination-india
 excerpt: 
 date: 2016-01-01
 venue: 'The Review of Black Political Economy'
-paperurl: 'https://doi.org/10.1007/s12114-016-9235-8'
+paperurl: "https://link.springer.com/content/pdf/10.1007/s12114-016-9235-8.pdf"
 citation: "Axmann, N., Swanson, K. & Cuspinera-Contreras, V. (2016). &quot;Caste and Religion-Based Wage Discrimination in the Indian Private Sector: Evidence from the Indian Human Development Survey.&quot; <i>Rev Black Polit Econ<i>, Volume 43, issue 2, pages 165-175."
 ---
 
