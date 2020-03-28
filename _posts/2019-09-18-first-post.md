@@ -10,7 +10,7 @@ tags:
 <i>I have a dream.</i>
 <span style="color:gray">-Martin Luther King</span>
 
-[]("\images\iHaveDream.png")
+![]("\images\iHaveDream.png")
 
 Opportunity cost was what bring me to Vancouver last August, and probably to the most MDS’s classmates.  
 
