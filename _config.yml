@@ -83,8 +83,8 @@ author:
   name             : "Victor Cuspinera"
   avatar           : "profile.png"
   bio              : "Researcher, Data Scientist, Actuary, Economist, excelent Cooker, and good Swimmer."
-  location         : "Vancouver, BC, CAN"
-  employer         : "https://www.banxico.org.mx"
+  location         : "Vancouver, BC"
+  employer         : #"Banco de Mexico"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=es&user=iuTeWWEAAAAJ"
   email            :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/vcuspinera"
+  github           : "vcuspinera"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/vcuspinera/"
+  instagram        : "vcuspinera"
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/victor-cuspinera-56185a28"
+  linkedin         : "victor-cuspinera-56185a28"
   orcid            : 
   pinterest        :
   soundcloud       :
