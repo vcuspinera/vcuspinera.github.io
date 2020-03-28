@@ -11,20 +11,20 @@ redirect_from:
 
 Work experience
 ======
-* May 2014 - July 2019: **Researcher**
+* **Researcher** : May 2014 - July 2019
   * Banco de Mexico, Mexico City
   * Collaborate and manage diverse studies and projects related with Banknotes and Coins.
   * Analyze Data Bases of Commercial Banks operation with Cash.
   * Supervisor: Daniel Fernandez
 
-* September 2007 - June 2012: **Analyst**
+* **Analyst** : September 2007 - June 2012
   * Banco de Mexico, Veracruz
   * Collaborate in diverse studies and projects related with banknotes.
   * Forecast and manage regional demand of banknotes.
   * Responsible of the Cashier Office in absence of the head of the area.
   * Supervisor: [Eduardo Jallath](https://www.linkedin.com/in/ejallath/) (2007-2011), Jose Jacobo Delfin (2011-2012)
 
-* March 2007 - August 2007: **Financial Actuary**
+* **Financial Actuary** : March 2007 - August 2007
   * QBE Insurance Company, Mexico City
   * Participate in diverse studies and projects related with Banknotes and Coins.
   * Analyze Data Bases of Commercial Banks operation with Cash.
@@ -32,17 +32,17 @@ Work experience
 
 Education
 ======
-* Master of Data Science, 2019 - Currently
-  * [University of British Columbia](https://www.ubc.ca) - Vancover, BC, Canada
+* **Master of Data Science** : 2019 - Currently
+  * [University of British Columbia](https://www.ubc.ca) - Vancouver, BC, Canada
   * Description: Intensive program that integrates Programming and Statistics, to analyze data, uncover insights, and  effectively communicate results.
   * Courses: Programming for Data Science, Computing Platforms, Data Visualization, Regressions, Supervises and Unsupervised Learning, Feature and Model Selection, Spatial and Temporal Models, Web and Cloud Computing, among others.
 
-* Master of Economics, 2012 - 2014
+* **Master of Economics** : 2012 - 2014
   * [North Carolina State University](https://www.ncsu.edu) - Raleigh, NC, USA
   * Description: Graduate Economics program with Theoretical and Applied balance.
   * Courses: *Core* Microeconomics, Macroeconomics, Econometrics, and *electives* Economic Development, Public Finance and Writing in Economics.
 
-* Bachelor in Actuarial Science, 2002 - 2006
+* **Bachelor in Actuarial Science** : 2002 - 2006
   * [Universidad de las Americas Puebla](https://www.udlap.mx/web/en/) - Cholula, PUE, Mexico
   * Description: Applied Mathematics and Statistics to assess risk in Insurance and Finance.
   * Courses: Probability and Statistics, Calculus, Linear Algebra, Finance, Insurance Applications, Operations Research, among others.
@@ -50,7 +50,8 @@ Education
 
 Other Studies
 =============
-* Specialization in Disclosure of Economics. [Museo Interactivo de Economia (MIDE)](https://www.mide.org.mx). Mexico City, Mexico. 2017-2018
+* Payment Systems: Current panorama and perspectives. [CEMLA Center for Latin American Monetary Studies](https://www.cemla.org/english.html). Mexico City, Mexico. May 2019.
+* Specialization in Disclosure of Economics. [MIDE Museo Interactivo de Economia](https://www.mide.org.mx). Mexico City, Mexico. 2017-2018
 * Global Inequality Research Seminar. [Duke University](https://duke.edu). Durham, NC, USA. 2014
 * Diploma in Finance. Universidad de las Americas Puebla. Cholula, PUE, Mexico. 2007–2008
 
@@ -87,7 +88,8 @@ Teaching
   {% endfor %}</ul>
   
 Service and leadership
-======
-* 2005-2006: Volunteer at Fundación Comunitaria Puebla, where I worked as administrative and accountant staff as part of a multidisciplinary group of accountants, engineers, farmers, students and people from the region, in projects to promote the social development of communities in the mountains of Puebla named Sierra Negra.
+======================
 * 2013-2014: Volunteer at Lonerider Microbrewery, where I participated with a group of volunteers in different activities that varied on the needs of the company.
+* 2005-2006: Volunteer at Fundación Comunitaria Puebla, where I worked as administrative and accountant staff as part of a multidisciplinary group of accountants, engineers, farmers, students and people from the region, in projects to promote the social development of communities in the mountains of Puebla named Sierra Negra.
+* 2004-2005: Vice-President of the UDLAP's Actuarial Students Association, were I attended meetings with faculty of the Actuarial Department and collaborate to organize the 2014 Conference and the 2005 monthly Seminar of the Actuarial Science Department.
 * 1999­-2002: Volunteer as mathematics teacher for adult education in the Institute of Adult Education of Veracruz.
