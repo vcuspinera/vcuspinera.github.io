@@ -10,23 +10,6 @@ tags:
   - UBC
 ---
 
-{% if 'vega' in article.include %}
-<style>
-.vega-actions a {
-    margin-right: 12px;
-    color: #757575;
-    font-weight: normal;
-    font-size: 13px;
-}
-.error {
-    color: red;
-}
-</style>
-<script src="https://cdn.jsdelivr.net/npm//vega@3.3.1"></script>
-<script src="https://cdn.jsdelivr.net/npm//vega-lite@2.4.3"></script>
-<script src="https://cdn.jsdelivr.net/npm//vega-embed@3.11"></script>
-{% endif %}
-
 <i>“To be or not to be ..nomial"</i>  
 <span style="color:gray">- Statistical bad joke based on William Shakespeare, by me.</span>
 
@@ -63,26 +46,3 @@ So when we compare these successes rates in scoring 4 out of 5 penalty kicks in 
 <center><img src="/images/penalty_shootout_dist.png" /></center>
 
 *Source: [Jupyter Notebook of the Binomial in Soccer field](https://github.com/vcuspinera/vcuspinera.github.io/blob/master/files/2019-binomial_soccer.ipynb), 2020, by Vic Cuspinera.*
-
-
-
-<center><img src="/images/penalty_shootout_dist.html" /></center>
-
-<div id="vis0"></div>
-<script type="text/javascript">
-var spec0 = {"config": {"view": {"width": 400, "height": 300}}, "hconcat": [{"data": {"url": "https://vega.github.io/vega-datasets/data/cars.json"}, "mark": "circle", "encoding": {"color": {"type": "nominal", "field": "Origin", "legend": null}, "size": {"type": "ordinal", "field": "Cylinders", "scale": {"range": [20, 100]}}, "tooltip": [{"type": "nominal", "field": "Name"}, {"type": "quantitative", "field": "Horsepower"}, {"type": "quantitative", "field": "Miles_per_Gallon"}, {"type": "ordinal", "field": "Cylinders"}, {"type": "nominal", "field": "Origin"}], "x": {"type": "quantitative", "field": "Horsepower"}, "y": {"type": "quantitative", "field": "Miles_per_Gallon"}}, "selection": {"selector005": {"type": "interval", "bind": "scales", "encodings": ["x", "y"]}}, "transform": [{"filter": {"selection": "selector004"}}]}, {"data": {"url": "https://vega.github.io/vega-datasets/data/cars.json"}, "mark": "rect", "encoding": {"color": {"condition": {"type": "nominal", "field": "Origin", "legend": null, "selection": "selector004"}, "value": "lightgray"}, "size": {"value": 250}, "y": {"type": "nominal", "axis": {"title": "Select Origin"}, "field": "Origin"}}, "selection": {"selector004": {"type": "multi", "encodings": ["color"]}}}], "$schema": "https://vega.github.io/schema/vega-lite/v2.4.3.json"};
-var embed_opt0 = {"mode": "vega-lite"};
-
-function showError(el0, error){
-el.innerHTML = ('<div class="error">'
-+ '<p>JavaScript Error: ' + error.message + '</p>'
-+ "<p>This usually means there's a typo in your chart specification. "
-+ "See the javascript console for the full traceback.</p>"
-+ '</div>');
-throw error;
-}
-const el0 = document.getElementById('vis0');
-vegaEmbed("#vis0", spec0, embed_opt0)
-.catch(error => showError(el0, error));
-</script>
-
