@@ -14,8 +14,9 @@ tags:
 
 <center><img src="https://media0.giphy.com/media/KnSm1GhuvUjFm/giphy.gif" width="200" alt="goalkeeper"  /></center>
 
-<center>*Source: [Goalkeeper Sweety GIF](https://media0.giphy.com/media/KnSm1GhuvUjFm/giphy.gif), via GIPHY*</center>
-  
+<center> *Source: [Goalkeeper Sweety GIF](https://media0.giphy.com/media/KnSm1GhuvUjFm/giphy.gif), via GIPHY* </center>
+
+    
 In Mexico there are two specific things you probably have learn since kid: eat chile and soccer game. The second one is required. Maybe, you could unknow a lot of important things in life -as math, biology or statistics- but for sure you would know about soccer.
   
 Personally, I am not a huge soccer fan like my father, father in law, friends, co-workers or even wife, but each 4 years I dust off 1998 green jersey from Mexico's soccer team and almost religiously follow the World Cup games. In the soccer field, over last World Cups, the national team has been palying quite-good well until they meet the Penalty Shootout, where it looks like the team has been cursed for many many years.
