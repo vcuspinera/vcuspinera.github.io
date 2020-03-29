@@ -26,7 +26,7 @@ Personally, I am not a huge soccer fan like my father, father in law, friends, c
 In the soccer field, over last World Cups, the national team has been playing quite-good until they meet the Penalty Shootout, where it looks like the team has been cursed for many many years.
   
 Recently, I read an interesting article$^1$ related with our National Team's headache, [Penalty Kicks... by the Numbers](https://cdn4.sportngin.com/attachments/document/0057/0846/The_Science_of_Soccer_Online-_Penalty_Kicks__By_the_Numbers.pdf) from Jay Williams, who talks about different statistic related with different soccer leagues and championships. In Williams' article, one specific number jumped to my sight when I read the next sentence:
-<center> _"From the penalty kicker’s standpoint, __85%__ of the penalty shots placed on goal were successful"._ </center>
+> _"From the penalty kicker’s standpoint, __85%__ of the penalty shots placed on goal were successful"._
   
 As a Mexican who feel that his National Team is cursed, and as a future Data Scientist, I feel the duty of study -and share with you- the probability of winning a game by scoring as much goals as possible in the Penalty Shootout.
 
@@ -43,6 +43,6 @@ This doesn't sound as bad. However, if replicate the previous process assuming t
 
 So when we compare these successes rates in scoring 4 out of 5 penalty kicks in a penalty shootout from Mexico (__59%__) vs. the average team (__84%__), we only thing that comes to my mind is that my greens should keep training penalty kicks!
 
-<img src="/images/penalty_shootout_dist.png" />
+<center><img src="/images/penalty_shootout_dist.png" /></center>
 
 *Source: [Jupyter Notebook of the Binomial in Soccer field](https://github.com/vcuspinera/vcuspinera.github.io/blob/master/files/2019-binomial_soccer.ipynb), 2020, by Vic Cuspinera.*
