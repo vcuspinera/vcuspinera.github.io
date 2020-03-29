@@ -15,7 +15,7 @@ tags:
 
 <center><img src="https://media0.giphy.com/media/KnSm1GhuvUjFm/giphy.gif" width="200" alt="goalkeeper"  /></center>
 
-*Source: [Goalkeeper Sweety GIF](https://media0.giphy.com/media/KnSm1GhuvUjFm/giphy.gif), via GIPHY*
+<div align="center">*Source: [Goalkeeper Sweety GIF](https://media0.giphy.com/media/KnSm1GhuvUjFm/giphy.gif), via GIPHY*</div>
   
 *Comment: Take a look [here](https://github.com/vcuspinera/vcuspinera.github.io/blob/master/files/2019-binomial_soccer.ipynb) to the Jupyter notebook with the calculations and simulations of this blog.*
 
@@ -33,7 +33,8 @@ As a Mexican who feel that his National Team is cursed, and as a future Data Sci
 However, in the case of Mexico, I felt that this effective soccer goals rate probably was lower, so I look for some statistics from [transfermarkt.com](https://www.transfermarkt.com/mexiko/elfmeterschiessen/verein/6303) and calculate that about __73%__ of the penalty shots placed by the Mexican team were successful.
   
 And here is where the Binomial distribution enter the soccer field. The binomial distribution helps us to obtain the probability distribution of `k` number of successes from a total of `n` independent trials, where each one event has a `p` probability of success. The formal formula is expressed after this paragraph. If you are interested to know more about this statistical Binomial distribution I recommend you to visit [Binomial Distribution in Wikipedia](https://en.wikipedia.org/wiki/Binomial_distribution)
-$$\binom{n}{k} p^k (1-p)^{n-k}$$
+
+<div align="center">$$\binom{n}{k} p^k (1-p)^{n-k}$$</div>
 
 From this point, if I suppose 4 of 5 successful penalty shootout are a good score, I would be interested in obtain the probability that the Mexican team scores __4__ goals in a penalty shootout of __5__ penalty kicks, assuming a __0.73__ probability of score a goal. If I plug in these numbers, the formula looks like $\binom{5}{4} {0.73}^4 (0.27)^1$ ...returning a __38%__ probability that my green team would score 4 out of 5 penalty kicks in a shootout!
 
