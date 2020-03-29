@@ -46,3 +46,5 @@ So when we compare these successes rates in scoring 4 out of 5 penalty kicks in 
 <center><img src="/images/penalty_shootout_dist.png" /></center>
 
 *Source: [Jupyter Notebook of the Binomial in Soccer field](https://github.com/vcuspinera/vcuspinera.github.io/blob/master/files/2019-binomial_soccer.ipynb), 2020, by Vic Cuspinera.*
+
+<center><img src="/images/penalty_shootout_dist.html" /></center>
