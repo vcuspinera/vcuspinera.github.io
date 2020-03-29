@@ -13,7 +13,7 @@ tags:
 <span style="color:gray">- Statistical bad joke based on William Shakespeare, by me.</span>
 
 <center><img src="https://media0.giphy.com/media/KnSm1GhuvUjFm/giphy.gif" width="200" alt="goalkeeper"  />
-
+  
 *Source: [Goalkeeper Sweety GIF](https://media0.giphy.com/media/KnSm1GhuvUjFm/giphy.gif), via GIPHY*
 </center>  
   
