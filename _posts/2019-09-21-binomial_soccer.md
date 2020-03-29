@@ -15,7 +15,7 @@ tags:
 
 <center><img src="https://media0.giphy.com/media/KnSm1GhuvUjFm/giphy.gif" width="200" alt="goalkeeper"  /></center>
 
-<div align="center">*Source: [Goalkeeper Sweety GIF](https://media0.giphy.com/media/KnSm1GhuvUjFm/giphy.gif), via GIPHY*</div>
+*Source: [Goalkeeper Sweety GIF](https://media0.giphy.com/media/KnSm1GhuvUjFm/giphy.gif), via GIPHY*
   
 *Comment: Take a look [here](https://github.com/vcuspinera/vcuspinera.github.io/blob/master/files/2019-binomial_soccer.ipynb) to the Jupyter notebook with the calculations and simulations of this blog.*
 
@@ -32,7 +32,7 @@ As a Mexican who feel that his National Team is cursed, and as a future Data Sci
 
 However, in the case of Mexico, I felt that this effective soccer goals rate probably was lower, so I look for some statistics from [transfermarkt.com](https://www.transfermarkt.com/mexiko/elfmeterschiessen/verein/6303) and calculate that about __73%__ of the penalty shots placed by the Mexican team were successful.
   
-And here is where the Binomial distribution enter the soccer field. The binomial distribution helps us to obtain the probability distribution of `k` number of successes from a total of `n` independent trials, where each one event has a `p` probability of success. The formal formula is expressed after this paragraph. If you are interested to know more about this statistical Binomial distribution I recommend you to visit [Binomial Distribution in Wikipedia](https://en.wikipedia.org/wiki/Binomial_distribution)
+And here is where the Binomial distribution enter the soccer field. The binomial distribution helps us to obtain the probability distribution of `k` number of successes from a total of `n` independent trials, where each one event has a `p` probability of success. The formal formula (1) is expressed after this paragraph. If you are interested to know more about this statistical Binomial distribution I recommend you to visit [Binomial Distribution in Wikipedia](https://en.wikipedia.org/wiki/Binomial_distribution)
 
 <div align="center">$$\binom{n}{k} p^k (1-p)^{n-k}$$</div>
 
