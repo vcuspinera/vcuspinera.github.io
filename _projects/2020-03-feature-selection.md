@@ -20,7 +20,7 @@ If you've ever encountered a dataset with a myriad number of features, you know 
 
 *Authors: Ryan Homer ([ryanhomer](https://github.com/ryanhomer)), Victor Cuspinera ([vcuspinera](https://github.com/vcuspinera)), Derek Kruszewski ([dkruszew](https://github.com/dkruszew)), Jacky Ho ([jackyho112](https://github.com/jackyho112))*  
 
-<center><img src="/images/feature_selection-logo.png" width=150/></center>
+<center><img src="/images/feature_selection-logo.png" width="150" /></center>
 
 ## Features
 In this package, four functions are included for feature selection:
@@ -35,8 +35,8 @@ In this package, four functions are included for feature selection:
 
 # Existing Ecosystems
 
-|Feature|Python |R    |
-|:------|:-----:|:---:|
+|Function |Python |R    |
+|:--------|:-----:|:---:|
 |Forward Selection  |No|[Yes](https://www.rdocumentation.org/packages/MXM/versions/0.9.4/topics/Forward%20selection)|
 |Recursive Feature Elimination|[Yes](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.RFE.html)|[Yes](https://www.rdocumentation.org/packages/caret/versions/6.0-85/topics/rfe)|
 |Variance Threshold |[Yes](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.VarianceThreshold.html)|No|
