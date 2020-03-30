@@ -16,7 +16,7 @@ tags:
 ---
 
 Demand forecasting is an important aspect for many companies in carrying out their operations. In this project we analyze the bike-sharing dataset from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset), and build a regression learning machine model using the **Random Forest Regressor** algorithm to **predict the count of bike rentals** based on time and weather-related information. For this project we use **Docker** making it easy to replicate the analysis.  
-[Click here](https://github.com/UBC-MDS/DSCI_522_Group_409) to look at the original GitHub repository of this project.  
+*[Click here](https://github.com/UBC-MDS/DSCI_522_Group_409) to look at the original GitHub repository of this project.*  
 
 *Authors: Aman Kumar ([amank90](https://github.com/amank90)), Dora Qian ([doraqmon](https://github.com/doraqmon)), and Victor Cuspinera ([vcuspinera](https://github.com/vcuspinera))*  
 
@@ -37,7 +37,6 @@ The dataset contains the hourly information about the numbers of bike rentals in
 10. `hum`: Normalized humidity  
 11. `windspeed`: Normalized wind speed  
 
-
 ## Explanatory Data Analysis (EDA) 
 
 In this analysis, we built some visualizations to deep dive the data and found the relationships between different variables, as well as the explanatory variables with a higher correlation with the target variable (number of bikes rented). The full EDA reort can be found [here.](https://github.com/UBC-MDS/DSCI_522_Group_409/blob/master/eda/EDA_summary.md)  
@@ -50,7 +49,7 @@ Figure 1. Analysis of temperatures by workingday
 
 The day of week and hour of the day clearly affects the count of bike rental. Also, people rent these bikes mainly for work and school on weekdays showing the peak of the demand in two times of the day. Besides, people use rental bikes between 11 am and 4 pm during weekends.  
 
-<img src="https://raw.githubusercontent.com/vcuspinera/DSCI_522_Group_409/master/img/fig_3_hr.png" />
+<img src="https://raw.githubusercontent.com/vcuspinera/DSCI_522_Group_409/master/img/fig_3_hr.png" width="650"/>
 
 Figure 2. Analysis per hour and weekday  
 
@@ -59,6 +58,4 @@ The correlation matrix between features, including the target variable, is shown
 
 Figure 3. Correlation matrix  
 
-
 ## Results
-  
