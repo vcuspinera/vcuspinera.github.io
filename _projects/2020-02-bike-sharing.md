@@ -2,7 +2,7 @@
 title: "Bike Sharing Machine Learning Model"
 collection: projects
 type: "Docker"
-permalink: /teaching/2020/bike-sharing
+permalink: /projects/2020/bike-sharing
 venue: "MDS-UBC"
 date: 2020-02-29
 location: "Vancouver, BC, Canada"
