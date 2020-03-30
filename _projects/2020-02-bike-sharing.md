@@ -13,9 +13,12 @@ tags:
   - UBC
 ---
 
-Contributors: Aman Kumar ([amank90](https://github.com/amank90)), Dora Qian ([doraqmon](https://github.com/doraqmon)), and Victor Cuspinera([vcuspinera](https://github.com/vcuspinera)) 
+Demand forecasting is an important aspect for many companies in carrying out their operations. In this project we analyze the bike-sharing dataset from UCI Machine Learning Repository, 
+and attempt to build a regression machine learning model using the Random Forest Regressor algorithm to predict the count of bike rentals based on time and weather-related information.  
 
-In this project we attempt to build a regression machine learning model using the Random Forest Regressor algorithm which predicts the count of bike rentals based on the time and weather-related information.  
+[Click here](https://github.com/UBC-MDS/DSCI_522_Group_409) to look at the original GitHub repository.
+
+*Team: Aman Kumar ([amank90](https://github.com/amank90)), Dora Qian ([doraqmon](https://github.com/doraqmon)), and Victor Cuspinera ([vcuspinera](https://github.com/vcuspinera))*
 
 **Introduction**
 Demand forecasting is an important aspect for many companies in carrying out their operations. In our case, with the help of demand forecasting, a bike rental company can perform many tasks such as inventory management (no. of bikes), manpower management etc. Such planning will result in making operations efficient and effective. Planning and forecasting can help in facing sudden challenges and problems in a much better way.
