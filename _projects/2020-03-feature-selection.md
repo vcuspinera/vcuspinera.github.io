@@ -44,7 +44,7 @@ In this package, four functions are included for feature selection:
 
 # Feature selection package in R
 
-In this section I share the general information of the **R package**. If you are interested in the *Usage* and *Documentation*, I encourage you to visit the [original repository for the **R** feature-selection package](https://github.com/UBC-MDS/feature-selection-r).
+In this section I share the general information of the **R package**. If you are interested in the **Usage** and details of the functions, I encourage you to visit the [original repository for the **R** feature-selection package](https://github.com/UBC-MDS/feature-selection-r).
 
 ### Installation
 
@@ -64,12 +64,12 @@ devtools::install_github("UBC-MDS/feature-selection-r")
 ### Dependencies
 [R 3.6](https://www.r-project.org/), [dyplr 0.8.0](https://dplyr.tidyverse.org/), [purrr 0.3.0](https://purrr.tidyverse.org/), and [stats 3.6.0](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/00Index.html)
 
+### Documentation
 The official documentation is hosted here: <https://ubc-mds.github.io/feature-selection-r>
-
 
 # Feature selection package in Python
 
-In this section I share the general information of the **Python package**. If you are interested in the *Usage* and *Documentation*, I encourage you to visit the [original repository for the **Python** feature-selection package](https://github.com/UBC-MDS/feature-selection-python/).
+In this section I share the general information of the **Python package**. If you are interested in the **Usage** and details of the functions, I encourage you to visit the [original repository for the **Python** feature-selection package](https://github.com/UBC-MDS/feature-selection-python/).
 
 ### Installation
 
@@ -80,4 +80,5 @@ pip install -i https://test.pypi.org/simple/ --extra-index-url https://pypi.org/
 ### Dependencies
 [python 3.7.5](https://www.python.org/downloads/release/python-375/), [numpy 1.17.4](https://numpy.org/), [pandas 0.25.3](https://pandas.pydata.org/getpandas.html)
 
+### Documentation
 The official documentation is hosted on Read the Docs: <https://feature-selection-python-mds.readthedocs.io/en/latest/>
