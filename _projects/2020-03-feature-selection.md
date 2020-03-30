@@ -16,7 +16,7 @@ tags:
 ---
 
 If you've ever encountered a dataset with a myriad number of features, you know it could be very difficult to work with all of them. Some features may not even be important or relevant and could even cause optimization bias. One approach to this problem is to select a subset of these features for your model. **Feature selection** will reduce both complexity and time training an algorithm, as well as improve the accuracy of your model -- if we select them wisely. However, this is not a trivial task and to that end we have created two **packages** addressing the feature-selection, in **Python** and **R programming languages**.  
-$\faStarO$ *In the next links you can access to the original sites of [Python package](https://github.com/UBC-MDS/feature-selection-python/) and [R feature selection package](https://github.com/UBC-MDS/feature-selection-r/).*  
+$\bigstar$ *In the next links you can access to the original sites of [Python package](https://github.com/UBC-MDS/feature-selection-python/) and [R feature selection package](https://github.com/UBC-MDS/feature-selection-r/).*  
 
 *Authors: Ryan Homer ([ryanhomer](https://github.com/ryanhomer)), Victor Cuspinera ([vcuspinera](https://github.com/vcuspinera)), Derek Kruszewski ([dkruszew](https://github.com/dkruszew)), Jacky Ho ([jackyho112](https://github.com/jackyho112))*  
 
