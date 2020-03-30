@@ -9,7 +9,8 @@ url: "https://github.com/UBC-MDS/DSCI_522_Group_409"
 date: 2020-02-29
 location: "Vancouver, BC, Canada"
 tags:
-  - Rental bikes
+  - R
+  - Python
   - Docker
   - MDS student
   - UBC
