@@ -17,7 +17,7 @@ tags:
 ---
 
 Demand forecasting is an important aspect for many companies in carrying out their operations. In this project we analyze the bike-sharing dataset from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset), and build a regression learning machine model using the **Random Forest Regressor** algorithm to **predict the count of bike rentals** based on time and weather-related information. For this project we use **Docker**, making it easier to replicate the analysis.  
-*[Click here](https://github.com/UBC-MDS/DSCI_522_Group_409) to look at the original GitHub repository of this project.*  
+$\faStarO$ *[Click here](https://github.com/UBC-MDS/DSCI_522_Group_409) to look at the original GitHub repository of this project.*  
 
 *Authors: Aman Kumar ([amank90](https://github.com/amank90)), Dora Qian ([doraqmon](https://github.com/doraqmon)), and Victor Cuspinera ([vcuspinera](https://github.com/vcuspinera))*  
 
