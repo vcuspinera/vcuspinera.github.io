@@ -52,7 +52,7 @@ The day of week and hour of the day clearly affects the count of bike rental. Al
 Figure 2. Analysis per hour and weekday  
 
 The correlation matrix between features, including the target variable, is shown below.  
-<img src="https://raw.githubusercontent.com/vcuspinera/DSCI_522_Group_409/master/img/fig_5_corr.png" />
+<img src="https://raw.githubusercontent.com/vcuspinera/DSCI_522_Group_409/master/img/fig_5_corr.png" width="500"/>
 Figure 3. Correlation matrix  
 
 
