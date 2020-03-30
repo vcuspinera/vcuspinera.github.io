@@ -4,7 +4,8 @@ author: "Aman Kumar Garg, Victor Cuspinera-Contreras, Yingping Qian"
 collection: projects
 type: "Docker"
 permalink: /projects/2020/bike-sharing
-venue: "MDS-UBC"
+venue: "MDS-UBC GitHub"
+url: "https://github.com/UBC-MDS/DSCI_522_Group_409"
 date: 2020-02-29
 location: "Vancouver, BC, Canada"
 tags:
@@ -43,16 +44,17 @@ In this analysis, we built some visualizations to deep dive the data and found t
 
 Among our finds, we observe that the demand for bikes increases when the weather is warmer and decreases when the temperatures are lower. 
 
-<img src="https://raw.githubusercontent.com/vcuspinera/DSCI_522_Group_409/master/img/fig_2b_workingday.png" width="650"/>
+<img src="https://raw.githubusercontent.com/vcuspinera/DSCI_522_Group_409/master/img/fig_2b_workingday.png" width="650"/>  
 Figure 1. Analysis of temperatures by workingday  
 
 The day of week and hour of the day clearly affects the count of bike rental. Also, people rent these bikes mainly for work and school on weekdays showing the peak of the demand in two times of the day. Besides, people use rental bikes between 11 am and 4 pm during weekends.  
 
-<img src="https://raw.githubusercontent.com/vcuspinera/DSCI_522_Group_409/master/img/fig_3_hr.png" />
+<img src="https://raw.githubusercontent.com/vcuspinera/DSCI_522_Group_409/master/img/fig_3_hr.png" />  
 Figure 2. Analysis per hour and weekday  
 
 The correlation matrix between features, including the target variable, is shown below.  
-<img src="https://raw.githubusercontent.com/vcuspinera/DSCI_522_Group_409/master/img/fig_5_corr.png" width="650"/>  
+<img src="https://raw.githubusercontent.com/vcuspinera/DSCI_522_Group_409/master/img/fig_5_corr.png" width="650"/>
+
 Figure 3. Correlation matrix  
 
 
