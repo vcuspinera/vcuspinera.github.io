@@ -19,7 +19,7 @@ Demand forecasting is an important aspect for many companies in carrying out the
 
 *Authors: Aman Kumar ([amank90](https://github.com/amank90)), Dora Qian ([doraqmon](https://github.com/doraqmon)), and Victor Cuspinera ([vcuspinera](https://github.com/vcuspinera))*  
 
-### Dataset
+## Dataset
 The data that we use to build the model comes from the bike-sharing dataset was created by Dr. Hadi from [LIAAD](http://www.liaad.up.pt) and shared in the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset). 
 
 The dataset contains the hourly information about the numbers of bike rentals in Washington, DC between 2011 and 2012. It has 17 variables, standing out:  
@@ -37,13 +37,13 @@ The dataset contains the hourly information about the numbers of bike rentals in
 11. `windspeed`: Normalized wind speed  
 
 
-### Explanatory Data Analysis (EDA) 
+## Explanatory Data Analysis (EDA) 
 
 In this analysis, we built some visualizations to deep dive the data and found the relationships between different variables, as well as the explanatory variables with a higher correlation with the target variable (number of bikes rented). The full EDA reort can be found [here.](https://github.com/UBC-MDS/DSCI_522_Group_409/blob/master/eda/EDA_summary.md)  
 
 Among our finds, we observe that the demand for bikes increases when the weather is warmer and decreases when the temperatures are lower. 
 
-<img src="https://raw.githubusercontent.com/vcuspinera/DSCI_522_Group_409/master/img/fig_2b_workingday.png" />
+<img src="https://raw.githubusercontent.com/vcuspinera/DSCI_522_Group_409/master/img/fig_2b_workingday.png" width="650"/>
 Figure 1. Analysis of temperatures by workingday  
 
 The day of week and hour of the day clearly affects the count of bike rental. Also, people rent these bikes mainly for work and school on weekdays showing the peak of the demand in two times of the day. Besides, people use rental bikes between 11 am and 4 pm during weekends.  
@@ -52,9 +52,9 @@ The day of week and hour of the day clearly affects the count of bike rental. Al
 Figure 2. Analysis per hour and weekday  
 
 The correlation matrix between features, including the target variable, is shown below.  
-<img src="https://raw.githubusercontent.com/vcuspinera/DSCI_522_Group_409/master/img/fig_5_corr.png" width="500"/>
+<img src="https://raw.githubusercontent.com/vcuspinera/DSCI_522_Group_409/master/img/fig_5_corr.png" width="650"/>  
 Figure 3. Correlation matrix  
 
 
-### Results
+## Results
   
