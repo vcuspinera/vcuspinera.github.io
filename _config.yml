@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vic's webpage"
 title_separator          : "-"
 name                     : &name "Victor Cuspinera"
-description              : &description "Researcher, Data Scientist, Actuary, Economist, excelent Cooker, and good Swimmer."
+description              : &description "Data Scientist, Actuary, Economist. Researcher. Cooker and Swimmer."
 url                      : https://vcuspinera.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vcuspinera/vcuspinera.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Victor Cuspinera"
   avatar           : "vic_profile.png"
-  bio              : "Researcher, Data Scientist, Actuary, Economist, excelent Cooker, and good Swimmer."
+  bio              : "Data Scientist, Actuary, Economist. Researcher. Cooker and Swimmer."
   location         : "Vancouver, BC"
   employer         : #"Banco de Mexico"
   pubmed           : 
