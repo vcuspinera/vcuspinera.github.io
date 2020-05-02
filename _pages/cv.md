@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+=======
 * **Master of Data Science Candidate**. 2019 - Currently
   * *[The University of British Columbia](https://www.ubc.ca) - Vancouver, BC, Canada*
   * Description: Intensive program that integrates Programming and Statistics, to analyze data, uncover insights, and  effectively communicate results.
@@ -28,7 +28,7 @@ Education
   * Dissertation: Portfolio Investments with Scenarios using Heuristics.
 
 Work experience
-======
+=======
 * **Researcher**. May 2014 - July 2019
   * *Banco de Mexico, Mexico City*
   * Collaborated in diverse studies and projects related with Cash, their process, and strategies that improve the circulation of banknotes and coins.
@@ -50,7 +50,7 @@ Work experience
   * Supervisor: [Mariana Benito](https://www.linkedin.com/in/mariana-benito-24187090/)
 
 Technical Skills
-======
+=======
 * **Python**. Numpy, Pandas, ScikitLearn, Keras, Atair
 * **R**. RStudio, Data Wrangling, Statistical Modeling, Data Visualization
 * **GitHub**. Git (Pull Requests, Branching, Issues), Collaborative Software Development
@@ -59,14 +59,14 @@ Technical Skills
 * **Others**. Visual Basic for Excel, Microsoft Office, SAS-Studio, SPSS.
 
 Additional Studies
-=============
+=======
 * **Payment Systems. Current panorama and perspectives.** *[CEMLA](https://www.cemla.org/english.html).* Mexico City, Mexico. May 2019.
 * **Specialization in Disclosure of Economics.** *[MIDE](https://www.mide.org.mx).* Mexico City, Mexico. 2017-2018
 * **Global Inequality Research Seminar.** *[Duke University](https://duke.edu).* Durham, NC, USA. 2014
 * **Diploma in Finance.** *Universidad de las Americas Puebla.* Cholula, PUE, Mexico. 2007–2008
 
 Honours and fellowships 
-=======================
+=======
 * **Banco de Mexico Scholarship.** *UBC*, 2019-2020
 * **Fulbright Grantee.** *NCSU*, 2012–2014
 * **Magna Cum Laude.** *UDLAP*, 2007
@@ -75,7 +75,7 @@ Honours and fellowships
 * **First Place at the Regional Mathematical Olympiad.** *Universidad Veracruzana*, 2001
 
 Publications
-======
+=======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -90,4 +90,4 @@ Community Involvement and Leadership
 Personal Interests
 =======
 * **Social**. Interested to approach to different communities, promoting cultural exchange through the self-exposure to foreign or different customs and traditions, ideas and experiences.
-* **Hobbies**. Enjoy cooking through practice and experimentation, elaborating both traditional dishes and creative cuisine.
+* **Hobbies**. Enjoy cooking through practice and experimentation, elaborating both traditional dishes and creative cuisine. Love to Swimm. Like exploring diverse datasets and doing visualizations Interested in the intersection of Art and Economics.
