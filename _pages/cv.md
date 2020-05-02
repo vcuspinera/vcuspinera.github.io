@@ -11,18 +11,18 @@ redirect_from:
 
 Education
 ======
-* **Master of Data Science Candidate**. *2019 - Currently
-  - [University of British Columbia](https://www.ubc.ca) - Vancouver, BC, Canada*
+* **Master of Data Science Candidate**. *2019 - Currently*
+  * *[University of British Columbia](https://www.ubc.ca) - Vancouver, BC, Canada*
   * Description: Intensive program that integrates Programming and Statistics, to analyze data, uncover insights, and  effectively communicate results.
   * Courses: Programming for Data Science, Databases, Data Wrangling, Visualization, Statistics, Inference, Regressions, Supervised and Unsupervised Learning, Spatial and Temporal Models, Web and Cloud Computing, Advance Machine Learning.
 
-* **Master of Economics**. 2012 - 2014
-  * [North Carolina State University](https://www.ncsu.edu) - Raleigh, NC, USA
+* **Master of Economics**. *2012 - 2014*
+  * *[North Carolina State University](https://www.ncsu.edu) - Raleigh, NC, USA*
   * Description: Graduate Economics program with Theoretical and Applied balance.
   * Courses: Core courses in Microeconomics, Macroeconomics, Econometrics, and electives as International Economics, Economic Development, Public Finance, Writing in Economics.
 
-* **Bachelor in Actuarial Science**. 2002 - 2006
-  * [Universidad de las Americas Puebla](https://www.udlap.mx/web/en/) - Cholula, PUE, Mexico
+* **Bachelor in Actuarial Science**. *2002 - 2006*
+  * *[Universidad de las Americas Puebla](https://www.udlap.mx/web/en/) - Cholula, PUE, Mexico*
   * Description: Applied Mathematics and Statistics to assess risk in Insurance and Finance.
   * Courses: Calculus, Linear Algebra, Analytic Geometry, Probability, Statistics, Inference, Optimization, Application of Mathematics in Finance and Actuarial Science.
   * Dissertation: Portfolio Investments with Scenarios using Heuristics.
