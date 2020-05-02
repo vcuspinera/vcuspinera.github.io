@@ -9,44 +9,45 @@ redirect_from:
 
 {% include base_path %}
 
+Education
+======
+* **Master of Data Science Candidate**. *2019 - Currently
+  - [University of British Columbia](https://www.ubc.ca) - Vancouver, BC, Canada*
+  * Description: Intensive program that integrates Programming and Statistics, to analyze data, uncover insights, and  effectively communicate results.
+  * Courses: Programming for Data Science, Databases, Data Wrangling, Visualization, Statistics, Inference, Regressions, Supervised and Unsupervised Learning, Spatial and Temporal Models, Web and Cloud Computing, Advance Machine Learning.
+
+* **Master of Economics**. 2012 - 2014
+  * [North Carolina State University](https://www.ncsu.edu) - Raleigh, NC, USA
+  * Description: Graduate Economics program with Theoretical and Applied balance.
+  * Courses: Core courses in Microeconomics, Macroeconomics, Econometrics, and electives as International Economics, Economic Development, Public Finance, Writing in Economics.
+
+* **Bachelor in Actuarial Science**. 2002 - 2006
+  * [Universidad de las Americas Puebla](https://www.udlap.mx/web/en/) - Cholula, PUE, Mexico
+  * Description: Applied Mathematics and Statistics to assess risk in Insurance and Finance.
+  * Courses: Calculus, Linear Algebra, Analytic Geometry, Probability, Statistics, Inference, Optimization, Application of Mathematics in Finance and Actuarial Science.
+  * Dissertation: Portfolio Investments with Scenarios using Heuristics.
+
 Work experience
 ======
-* **Researcher** : May 2014 - July 2019
+* **Researcher**. May 2014 - July 2019
   * Banco de Mexico, Mexico City
-  * Collaborate and manage diverse studies and projects related with Banknotes and Coins.
-  * Analyze Data Bases of Commercial Banks operation with Cash.
+  * Collaborated in diverse studies and projects related with Cash, their process, and strategies that improve the circulation of banknotes and coins.
+  * Analyzed databases related with Cash operations reported by Commercial Banks.
+  * Drafted reports, notes and documents about the projects developed by the area.
   * Supervisor: Daniel Fernandez
 
-* **Analyst** : September 2007 - June 2012
+* **Analyst**. September 2007 - June 2012
   * Banco de Mexico, Veracruz
-  * Collaborate in diverse studies and projects related with banknotes.
+  * Collaborated in diverse studies and projects related with Cash.
   * Forecast and manage regional demand of banknotes.
   * Responsible of the Cashier Office in absence of the head of the area.
   * Supervisor: [Eduardo Jallath](https://www.linkedin.com/in/ejallath/) (2007-2011), Jose Jacobo Delfin (2011-2012)
 
-* **Financial Actuary** : March 2007 - August 2007
+* **Financial Actuary**. March 2007 - August 2007
   * QBE Insurance Company, Mexico City
   * Participate in diverse studies and projects related with Banknotes and Coins.
   * Analyze Data Bases of Commercial Banks operation with Cash.
   * Supervisor: [Mariana Benito](https://www.linkedin.com/in/mariana-benito-24187090/)
-
-Education
-======
-* **Master of Data Science** : 2019 - Currently
-  * [University of British Columbia](https://www.ubc.ca) - Vancouver, BC, Canada
-  * Description: Intensive program that integrates Programming and Statistics, to analyze data, uncover insights, and  effectively communicate results.
-  * Courses: Programming for Data Science, Computing Platforms, Data Visualization, Regressions, Supervises and Unsupervised Learning, Feature and Model Selection, Spatial and Temporal Models, Web and Cloud Computing, among others.
-
-* **Master of Economics** : 2012 - 2014
-  * [North Carolina State University](https://www.ncsu.edu) - Raleigh, NC, USA
-  * Description: Graduate Economics program with Theoretical and Applied balance.
-  * Courses: *Core* Microeconomics, Macroeconomics, Econometrics, and *electives* Economic Development, Public Finance and Writing in Economics.
-
-* **Bachelor in Actuarial Science** : 2002 - 2006
-  * [Universidad de las Americas Puebla](https://www.udlap.mx/web/en/) - Cholula, PUE, Mexico
-  * Description: Applied Mathematics and Statistics to assess risk in Insurance and Finance.
-  * Courses: Probability and Statistics, Calculus, Linear Algebra, Finance, Insurance Applications, Operations Research, among others.
-  * Dissertation: Portfolio Investments with Scenarios using Heuristics.
 
 Other Studies
 =============
