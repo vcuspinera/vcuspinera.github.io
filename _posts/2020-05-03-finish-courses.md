@@ -28,7 +28,7 @@ The day I finished courses, it felt kind of sad the way it ended, it was like br
 
 However, tomorrow starts the last chapter of this journey, the Capstone project, and I am willing to start working along with my team in the BC Stats project.  
 
-Hopefully, I will share more great moments in person with all this amazing people before the program finished. Looking forward to see you guys!  
+Hopefully, I will share more great moments in person with all these amazing people before the program finished. Looking forward to see you guys!  
 
 ```
 The MDS classes in numbers:  
