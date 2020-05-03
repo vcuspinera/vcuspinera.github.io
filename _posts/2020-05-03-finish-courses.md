@@ -10,7 +10,7 @@ tags:
 ---
 
 <i>"All right, fellow humans, Pikachu, lets get started"</i>  
-<span style="color:gray">- Mike Gelbart, </span>[DSCI 512 - Sparse Matrix class.](https://youtu.be/T5IYf5rvPfA)
+<span style="color:gray">- Mike Gelbart, UBC-MDS Instructor, </span>[DSCI 512 - Sparse Matrix class.](https://youtu.be/T5IYf5rvPfA)
 
 <img src="/images/MDS_cohort_2019.jpeg" alt="cohort" />
 
