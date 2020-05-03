@@ -9,12 +9,10 @@ tags:
   - UBC
 ---
 
-<i>"All right, fellow humans, picachu, lets get started."</i>  
+<i>"All right, fellow humans, picachu, lets get started"</i>  
 <span style="color:gray">- Mike Gelbart, </span>[DSCI 512 - Sparse Matrix class.](https://youtu.be/T5IYf5rvPfA)
 
-<table><tr><td>
-    <img src="/images/MDS_cohort_2019.jpeg" alt="cohort" />
-</td></tr></table>
+<img src="/images/MDS_cohort_2019.jpeg" alt="cohort" />
 
 *Source: [Welcome to our 2019-20 cohorts](https://masterdatascience.ubc.ca/student-success-stories/welcome-our-2019-20-cohorts?utm_campaign=mds%20r20%20mds%20new%20cohort%20blog&utm_medium=social&utm_source=linkedin), 2019-09-13, by UBC-MDS*  
   
@@ -31,5 +29,7 @@ However, tomorrow starts the last chapter of this journey, the Capstone project.
 Hopefully, I will share more great moments in person with all this amazing people before the program finished. Looking forward to see you guys!  
 
 ```
-The MDS in numbers: 24 courses equivalent to 192 classes, 96 labs and 39 quizzes, and countless hours doing homework side by side with outstanding friends.
+The MDS classes in numbers:  
+      24 courses equivalent to 192 classes, 96 labs and 39 quizzes, and  
+      countless hours doing homework side by side with outstanding friends.
 ```
