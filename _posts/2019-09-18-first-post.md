@@ -3,9 +3,9 @@ title: 'First post!'
 date: 2019-09-18
 permalink: /posts/2019/first-post
 tags:
-  - hello world!
   - dream
-  - MDS student
+  - Vancouver
+  - Data Science
   - UBC
 ---
 

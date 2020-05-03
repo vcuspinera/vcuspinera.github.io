@@ -4,9 +4,8 @@ date: 2019-09-21
 permalink: /posts/2019/binomial_soccer
 tags:
   - soccer
-  - penalty kicks
   - binomial distribution
-  - MDS student
+  - Data Science
   - UBC
 ---
 
