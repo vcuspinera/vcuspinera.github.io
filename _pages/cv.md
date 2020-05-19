@@ -13,18 +13,18 @@ Education
 =======
 * **Master of Data Science Candidate**. 2019 - Currently
   * *[The University of British Columbia](https://www.ubc.ca) - Vancouver, BC, Canada*
-  * Description: Intensive program that integrates Programming and Statistics, to analyze data, uncover insights, and  effectively communicate results.
-  * Courses: Programming for Data Science, Databases, Data Wrangling, Visualization, Statistics, Inference, Regressions, Supervised and Unsupervised Learning, Spatial and Temporal Models, Web and Cloud Computing, Advance Machine Learning.
+  * Intensive program that integrates Programming and Statistics, to analyze data, uncover insights, and  effectively communicate results.
+  * Courses as Programming for Data Science, Databases, Data Wrangling, Visualization, Statistics, Inference, Regressions, Supervised and Unsupervised Learning, Spatial and Temporal Models, Web and Cloud Computing, Advance Machine Learning.
 
 * **Master of Economics**. 2012 - 2014
   * *[North Carolina State University](https://www.ncsu.edu) - Raleigh, NC, USA*
-  * Description: Graduate Economics program with Theoretical and Applied balance.
-  * Courses: Core courses in Microeconomics, Macroeconomics, Econometrics, and electives as International Economics, Economic Development, Public Finance, Writing in Economics.
+  * Graduate Economics program with Theoretical and Applied balance.
+  * Core courses in Microeconomics, Macroeconomics, Econometrics, and electives as International Economics, Economic Development, Public Finance, Writing in Economics.
 
 * **Bachelor in Actuarial Science**. 2002 - 2006
   * *[Universidad de las Americas Puebla](https://www.udlap.mx/web/en/) - Cholula, PUE, Mexico*
-  * Description: Applied Mathematics and Statistics to assess risk in Insurance and Finance.
-  * Courses: Calculus, Linear Algebra, Analytic Geometry, Probability, Statistics, Inference, Optimization, Application of Mathematics in Finance and Actuarial Science.
+  * Program of applied Mathematics and Statistics to assess risk in Insurance and Finance.
+  * Courses in Calculus, Linear Algebra, Analytic Geometry, Probability, Statistics, Inference, Optimization, Application of Mathematics in Finance and Actuarial Science.
   * Dissertation: Portfolio Investments with Scenarios using Heuristics.
 
 Work experience
@@ -55,7 +55,7 @@ Technical Skills
 * **R**. RStudio, Data Wrangling, Statistical Modeling, Data Visualization
 * **GitHub**. Git (Pull Requests, Branching, Issues), Collaborative Software Development
 * **Databases**. PostgreSQL, MongoDB
-* **Cloud and Web**. Amazon Web Services (AWS), Data Scraping, APIs (Twitter, Translink)
+* **Cloud and Web**. Amazon Web Services (AWS), Web Scraping, APIs (Twitter, Translink)
 * **Others**. Visual Basic for Excel, Microsoft Office, SAS-Studio, SPSS.
 
 Additional Studies
@@ -69,7 +69,7 @@ Honours and fellowships
 =======
 * **Banco de Mexico Scholarship.** *UBC*, 2019-2020
 * **Fulbright Grantee.** *NCSU*, 2012–2014
-* **Magna Cum Laude.** *UDLAP*, 2007
+* **Honors: Magna Cum Laude.** *UDLAP*, 2007
 * **Member of the Dean’s List.** *UDLAP*, 2003
 * **Jenkins Scholarship Holder.** *UDLAP*, 2002–2006
 * **First Place at the Regional Mathematical Olympiad.** *Universidad Veracruzana*, 2001
@@ -84,10 +84,10 @@ Community Involvement and Leadership
 =======
 * **Mathematics Teacher Volunteer**. *Institute of Adult Education of Veracruz*, 1999-2002.
 * **Vice-President of Actuarial Students Association**. *UDLAP*, 2004-2005. Student representative at meetings with the Mathematics and Actuary faculty; collaborated in the 2014 Conference and 2005 Seminar Series.
-* **Accountant Volunteer**. *Fundación Comunitaria Puebla*, 2005-2006. Collaborated with a multidisciplinary group of administrators, engineers, students and people from the region, in projects that promote the Social Development of communities in the Sierra Negra of Puebla.
-* **Production Volunteer**. *Lonerider Microbrewery*, 2013-2014. Supported the quality-control of production, as well as in diverse manually tasks
+* **Accountant Volunteer**. *Fundacion Comunitaria Puebla*, 2005-2006. Collaborated with a multidisciplinary group of administrators, engineers, students and people from the region, in projects that promote the Social Development of communities in the Sierra Negra of Puebla.
+* **Production Volunteer**. *Lonerider Microbrewery*, 2013-2014. Supported the quality-control of production, as well as in diverse manually tasks.
 
 Personal Interests
 =======
 * **Social**. Interested to approach to different communities, promoting cultural exchange through the self-exposure to foreign or different customs and traditions, ideas and experiences.
-* **Hobbies**. Enjoy cooking through practice and experimentation, elaborating both traditional dishes and creative cuisine. Love to Swimm. Like exploring diverse datasets and doing visualizations Interested in the intersection of Art and Economics.
+* **Hobbies**. Enjoy cooking through practice and experimentation, elaborating both traditional dishes and creative cuisine. Love to Swimm. Like exploring diverse datasets and doing visualizations. Interested in the intersection of Art and Economics.
