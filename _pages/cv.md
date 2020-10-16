@@ -29,7 +29,7 @@ Education
 
 Work experience
 =======
-* **Researcher**. July 2019 - currently  
+* **Researcher**. July 2020 - currently  
   *Statistics Office, Banco de Mexico, Mexico City*
   * Supervisor: [Jorge Barrera](https://www.linkedin.com/in/jorge-barrera-ceballos-b4973738/)
 
