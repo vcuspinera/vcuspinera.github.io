@@ -65,7 +65,7 @@ Technical Skills
 
 Additional Studies
 =======
-* **Payment Systems. Current panorama and perspectives.** *[CEMLA](https://www.cemla.org/english.html).* Mexico City, Mexico. May 2019.
+* **Payment Systems. Current panorama and perspectives.** *[CEMLA](https://www.cemla.org/english.html).* Mexico City, Mexico. May 2019
 * **Specialization in Disclosure of Economics.** *[MIDE](https://www.mide.org.mx).* Mexico City, Mexico. 2017-2018
 * **Global Inequality Research Seminar.** *[Duke University](https://duke.edu).* Durham, NC, USA. 2014
 * **Diploma in Finance.** *Universidad de las Americas Puebla.* Cholula, PUE, Mexico. 2007–2008
