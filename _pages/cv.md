@@ -46,7 +46,7 @@ Work experience
   * Collaborated in diverse studies and projects related with Cash.
   * Forecasted regional demand of banknotes.
   * Assigned as responsible of the Cashier Office in absence of the head of the area.
-  * Supervisor: [Eduardo Jallath](https://www.linkedin.com/in/ejallath/) (2007-2011), Jose Jacobo Delfin (2011-2012)
+  * Supervisor: [Eduardo Jallath](https://www.linkedin.com/in/ejallath/) (2007-2011), [Jose Jacobo Delfin](https://www.banxico.org.mx/apps/deptel/arbol/curricula/deptel/declaracion-curricular213.html) (2011-2012)
 
 * **Financial Actuary**. March 2007 - August 2007  
   *QBE Insurance Company, Mexico City*
