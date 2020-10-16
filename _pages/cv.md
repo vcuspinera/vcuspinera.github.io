@@ -12,43 +12,43 @@ redirect_from:
 Education
 =======
 * **Master of Data Science**. 2019 - 2020  
-  *[The University of British Columbia](https://www.ubc.ca) - Vancouver, BC, Canada*
+  *[The University of British Columbia](https://www.ubc.ca) - Vancouver, BC, Canada*  
   * Intensive program that integrates Programming and Statistics, to analyze data, uncover insights, and  effectively communicate results.
   * Courses as Programming for Data Science, Databases, Data Wrangling, Visualization, Statistics, Inference, Regressions, Supervised and Unsupervised Learning, Spatial and Temporal Models, Web and Cloud Computing, Advance Machine Learning.
   * Capstone Project: "Text Analytics, Quantifying the Responses to Open-Ended Survey Questions", with BC Stats.
 
 * **Master of Economics**. 2012 - 2014  
-  *[North Carolina State University](https://www.ncsu.edu) - Raleigh, NC, USA*
+  *[North Carolina State University](https://www.ncsu.edu) - Raleigh, NC, USA*  
   * Graduate Economics program with Theoretical and Applied balance.
   * Core courses in Microeconomics, Macroeconomics, Econometrics, and electives as International Economics, Economic Development, Public Finance, Writing in Economics.
 
 * **Bachelor in Actuarial Science**. 2002 - 2006  
-  *[Universidad de las Americas Puebla](https://www.udlap.mx/web/en/) - Cholula, PUE, Mexico*
+  *[Universidad de las Americas Puebla](https://www.udlap.mx/web/en/) - Cholula, PUE, Mexico*  
   * Program of applied Mathematics and Statistics to assess risk in Insurance and Finance.
   * Courses in Calculus, Linear Algebra, Analytic Geometry, Probability, Statistics, Inference, Optimization, Application of Mathematics in Finance and Actuarial Science.
   * Dissertation: Portfolio Investments with Scenarios using Heuristics.
 
 Work experience
 =======
-* **Researcher - Statistics Office**
-  *July 2020 - currently. Banco de Mexico, Mexico City*
+* **Researcher - Statistics Office**  
+  *July 2020 - currently. Banco de Mexico, Mexico City*  
   * Supervisor: [Jorge Barrera](https://www.linkedin.com/in/jorge-barrera-ceballos-b4973738/)
 
-* **Capstone Project of UBC MDS - BC Stat**
-  *May 2020 - June 2020. BC Stats, Vancouver (Canada)*
+* **Capstone Project of UBC MDS - BC Stat**  
+  *May 2020 - June 2020. BC Stats, Vancouver (Canada)*  
   * Partnered with a team from UBC MDS and the BC Stats' Data Science department, to analyze text responses to open-ended questions of the Work Environment Survey (WES), using Natural Language Processing (NLP) and Machine Learning to automate labeling classification.
   * Mentor: [Varada Kolhatkar](https://www.linkedin.com/in/varada-kolhatkar-b2b4809/)
   * Partner: [BC Stats](https://www2.gov.bc.ca/gov/content/data/about-data-management/bc-stats), supervised by [Nasim Taba](https://www.linkedin.com/in/nasimt/)
 
 * **Researcher - Cash Analysis and Research Studies Office**.   
-  *May 2014 - July 2019. Banco de Mexico, Mexico City*
+  *May 2014 - July 2019. Banco de Mexico, Mexico City*  
   * Collaborated in diverse studies and projects related with Cash, their process, and strategies that improve the circulation of banknotes and coins.
   * Analyzed databases related with Cash operations reported by Commercial Banks.
   * Drafted reports, notes and documents about the projects developed by the area.
   * Supervisor: Daniel Fernandez
 
 * **Analyst - Regional Cashier**.  
-  *September 2007 - June 2012. Banco de Mexico, Veracruz*
+  *September 2007 - June 2012. Banco de Mexico, Veracruz*  
   * Collaborated in diverse studies and projects related with Cash.
   * Forecasted regional demand of banknotes.
   * Assigned as responsible of the Cashier Office in absence of the head of the area.
