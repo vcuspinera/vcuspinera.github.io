@@ -19,7 +19,7 @@ Something personal is that when I am stressed, thoughtful, happy or sad, I reall
 I am happy to share my tougths and personal projects. Feel free to drop me a line anytime.
 
 <center>
-<img src="/images/vic_ubc.jpg" alt="cohort" width="50%" height="50%"/>
-
+<img src="/images/vic_ubc.jpg" alt="cohort" width="50%" height="50%"/>  
+  
 *Source: Pam & Vic at UBC, 2019, Photo by Victor Cuspinera*  
 </center>
