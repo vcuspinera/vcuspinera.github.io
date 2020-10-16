@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 =======
-* **Master of Data Science Candidate**. 2019 - Currently
+* **Master of Data Science Candidate**. 2019 - 2020
   * *[The University of British Columbia](https://www.ubc.ca) - Vancouver, BC, Canada*
   * Intensive program that integrates Programming and Statistics, to analyze data, uncover insights, and  effectively communicate results.
   * Courses as Programming for Data Science, Databases, Data Wrangling, Visualization, Statistics, Inference, Regressions, Supervised and Unsupervised Learning, Spatial and Temporal Models, Web and Cloud Computing, Advance Machine Learning.
@@ -30,7 +30,14 @@ Education
 Work experience
 =======
 * **Researcher**. May 2014 - July 2019
-  * *Banco de Mexico, Mexico City*
+  *Statistics Office*
+  *Banco de Mexico, Mexico City*
+  * Collaborated in diverse studies and projects related with Cash, their process, and strategies that improve the circulation of banknotes and coins.
+
+
+* **Researcher**. May 2014 - July 2019
+  *Cash Analysis and Research Studies Office*
+  *Banco de Mexico, Mexico City*
   * Collaborated in diverse studies and projects related with Cash, their process, and strategies that improve the circulation of banknotes and coins.
   * Analyzed databases related with Cash operations reported by Commercial Banks.
   * Drafted reports, notes and documents about the projects developed by the area.
