@@ -29,29 +29,27 @@ Education
 
 Work experience
 =======
-* **Researcher**. May 2014 - July 2019  
-  *Statistics Office*
-  *Banco de Mexico, Mexico City*
+* **Researcher**. July 2019 - currently
+  *Statistics Office, Banco de Mexico, Mexico City*
   * Collaborated in diverse studies and projects related with Cash, their process, and strategies that improve the circulation of banknotes and coins.
 
 
 * **Researcher**. May 2014 - July 2019  
-  *Cash Analysis and Research Studies Office*
-  *Banco de Mexico, Mexico City*
+  *Cash Analysis and Research Studies Office, Banco de Mexico, Mexico City*
   * Collaborated in diverse studies and projects related with Cash, their process, and strategies that improve the circulation of banknotes and coins.
   * Analyzed databases related with Cash operations reported by Commercial Banks.
   * Drafted reports, notes and documents about the projects developed by the area.
   * Supervisor: Daniel Fernandez
 
 * **Analyst**. September 2007 - June 2012
-  * *Banco de Mexico, Veracruz*
+  *Regional Cashier, Banco de Mexico, Veracruz*
   * Collaborated in diverse studies and projects related with Cash.
   * Forecasted regional demand of banknotes.
   * Assigned as responsible of the Cashier Office in absence of the head of the area.
   * Supervisor: [Eduardo Jallath](https://www.linkedin.com/in/ejallath/) (2007-2011), Jose Jacobo Delfin (2011-2012)
 
 * **Financial Actuary**. March 2007 - August 2007
-  * *QBE Insurance Company, Mexico City*
+  *QBE Insurance Company, Mexico City*
   * Analyzed data to generate periodically reports as Cash Flow, Financial Reporting, Dynamic Solvency and Foreign Exchange.
   * Drafted a guide for usage of reports and documents analyzed in the Office.
   * Supervisor: [Mariana Benito](https://www.linkedin.com/in/mariana-benito-24187090/)
