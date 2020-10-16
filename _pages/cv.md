@@ -11,10 +11,11 @@ redirect_from:
 
 Education
 =======
-* **Master of Data Science Candidate**. 2019 - 2020  
+* **Master of Data Science**. 2019 - 2020  
   *[The University of British Columbia](https://www.ubc.ca) - Vancouver, BC, Canada*
   * Intensive program that integrates Programming and Statistics, to analyze data, uncover insights, and  effectively communicate results.
   * Courses as Programming for Data Science, Databases, Data Wrangling, Visualization, Statistics, Inference, Regressions, Supervised and Unsupervised Learning, Spatial and Temporal Models, Web and Cloud Computing, Advance Machine Learning.
+  * Capstone Project: "Text Analytics, Quantifying the Responses to Open-Ended Survey Questions", with BC Stats.
 
 * **Master of Economics**. 2012 - 2014  
   *[North Carolina State University](https://www.ncsu.edu) - Raleigh, NC, USA*
@@ -29,27 +30,32 @@ Education
 
 Work experience
 =======
-* **Researcher**. July 2020 - currently  
-  *Statistics Office, Banco de Mexico, Mexico City*
+* **Researcher - Statistics Office**
+  *July 2020 - currently. Banco de Mexico, Mexico City*
   * Supervisor: [Jorge Barrera](https://www.linkedin.com/in/jorge-barrera-ceballos-b4973738/)
 
+* **Capstone Project of UBC MDS - BC Stat**
+  *May 2020 - June 2020. BC Stats, Vancouver (Canada)*
+  * Partnered with a team from UBC MDS and the BC Stats' Data Science department, to analyze text responses to open-ended questions of the Work Environment Survey (WES), using Natural Language Processing (NLP) and Machine Learning to automate labeling classification.
+  * Mentor: [Varada Kolhatkar](https://www.linkedin.com/in/varada-kolhatkar-b2b4809/)
+  * Partner: [BC Stats](https://www2.gov.bc.ca/gov/content/data/about-data-management/bc-stats), supervised by [Nasim Taba](https://www.linkedin.com/in/nasimt/)
 
-* **Researcher**. May 2014 - July 2019  
-  *Cash Analysis and Research Studies Office, Banco de Mexico, Mexico City*
+* **Researcher - Cash Analysis and Research Studies Office**.   
+  *May 2014 - July 2019. Banco de Mexico, Mexico City*
   * Collaborated in diverse studies and projects related with Cash, their process, and strategies that improve the circulation of banknotes and coins.
   * Analyzed databases related with Cash operations reported by Commercial Banks.
   * Drafted reports, notes and documents about the projects developed by the area.
   * Supervisor: Daniel Fernandez
 
-* **Analyst**. September 2007 - June 2012  
-  *Regional Cashier, Banco de Mexico, Veracruz*
+* **Analyst - Regional Cashier**.  
+  *September 2007 - June 2012. Banco de Mexico, Veracruz*
   * Collaborated in diverse studies and projects related with Cash.
   * Forecasted regional demand of banknotes.
   * Assigned as responsible of the Cashier Office in absence of the head of the area.
   * Supervisor: [Eduardo Jallath](https://www.linkedin.com/in/ejallath/) (2007-2011), [Jose Jacobo Delfin](https://www.banxico.org.mx/apps/deptel/arbol/curricula/deptel/declaracion-curricular213.html) (2011-2012)
 
-* **Financial Actuary**. March 2007 - August 2007  
-  *QBE Insurance Company, Mexico City*
+* **Financial Actuary**.  
+  *March - August 2007. QBE Insurance Company, Mexico City*
   * Analyzed data to generate periodically reports as Cash Flow, Financial Reporting, Dynamic Solvency and Foreign Exchange.
   * Drafted a guide for usage of reports and documents analyzed in the Office.
   * Supervisor: [Mariana Benito](https://www.linkedin.com/in/mariana-benito-24187090/)
