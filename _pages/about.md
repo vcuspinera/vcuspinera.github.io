@@ -20,6 +20,8 @@ I am happy to share my tougths and personal projects. Feel free to drop me a lin
 
 <center>
 <img src="/images/vic_ubc.jpg" alt="cohort" width="50%" height="50%"/>  
-  
+</center>
+
+<center>  
 *Source: Pam & Vic at UBC, 2019, Photo by Victor Cuspinera*  
 </center>
