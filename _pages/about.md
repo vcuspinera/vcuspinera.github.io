@@ -23,5 +23,5 @@ I am happy to share my tougths and personal projects in this site. Feel free to 
 </center>
 
 <center>  
-<p style="font-style: italic;">Source: Pam & Vic at UBC, 2019, Photo by Victor Cuspinera</p>
+<p style="font-style: italic;">Source: Pam & Vic at UBC, 2019, by Vic Cuspinera</p>
 </center>
