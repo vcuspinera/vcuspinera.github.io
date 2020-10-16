@@ -29,13 +29,13 @@ Education
 
 Work experience
 =======
-* **Researcher**. May 2014 - July 2019
+* **Researcher**. May 2014 - July 2019  
   *Statistics Office*
   *Banco de Mexico, Mexico City*
   * Collaborated in diverse studies and projects related with Cash, their process, and strategies that improve the circulation of banknotes and coins.
 
 
-* **Researcher**. May 2014 - July 2019
+* **Researcher**. May 2014 - July 2019  
   *Cash Analysis and Research Studies Office*
   *Banco de Mexico, Mexico City*
   * Collaborated in diverse studies and projects related with Cash, their process, and strategies that improve the circulation of banknotes and coins.
