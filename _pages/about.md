@@ -19,7 +19,7 @@ Something about me, is that when I am stressed, thoughtful, happy or sad, I real
 I am happy to share my tougths and personal projects in this site. Feel free to drop me a line anytime.
 
 <center>
-<img src="/images/vic_ubc.jpg" alt="cohort" width="50%" height="50%"/>  
+<img src="/images/vic&pam_ubc.jpg" alt="cohort" width="50%" height="50%"/>  
 </center>
 
 <center>  
