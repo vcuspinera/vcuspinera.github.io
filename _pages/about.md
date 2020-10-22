@@ -21,5 +21,6 @@ I am happy to share my tougths and personal projects in this site. Feel free to 
 <center>
 <img src="/images/vic&pam_ubc.jpg" alt="cohort" width="50%" height="50%"/>  
 <br>
+<br>
 <p style="font-style: italic;">Source: Pam & Vic at UBC, 2019, by Vic Cuspinera</p>
 </center>
