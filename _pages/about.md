@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Welcome to my skyline"
+title: #"Welcome to my skyline"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+# Welcome to my skyline
 
 My name is Victor Hugo, as the [french writer](https://en.wikipedia.org/wiki/Victor_Hugo). I grew up in the East Coast of Mexico and, as a consequence, I like Pina Colada, getting caught in the warm rain, and the sound of the ocean.
 
