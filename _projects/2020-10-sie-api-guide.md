@@ -66,17 +66,17 @@ Additionally, I have created a custome support function that can be found in the
 [👉 Click here](https://github.com/vcuspinera/SIE_API_guide/blob/main/src/SIE_function_examples.pdf) to access to the complementary document developed to show additional examples of this custome function used in different contexts with time series published in the SIE by Banco de Mexico.
 
 ## Documentation
-The official documentation by Banco de Mexico related with the Economic Information System can be found in the next links:
+The official documentation by Banco de Mexico related with the SIE in english can be found in the next sites:
 
 | Official Websites|
 |:----------|
-|📁 [SIE](https://www.banxico.org.mx/SieInternet/) |
+|📁 [SIE](https://www.banxico.org.mx/SieInternet/defaultEnglish.do) |
 |🛠 [SIE API](https://www.banxico.org.mx/SieAPIRest/service/v1/?locale=en)|
 |🔎 [Series Catalogue](https://www.banxico.org.mx/SieAPIRest/service/v1/doc/catalogoSeries)|
 |📦 [`siebanxicor` R-Package](https://cran.r-project.org/web/packages/siebanxicor/siebanxicor.pdf)|
 |📌 [Banco de Mexico](https://www.banxico.org.mx/indexen.html)|
 
-Additionally, the links about the Guide that I developed, and examples, can be cound in the following links:
+Additionally, the links of to the complete guide of the SIE API, as well as diverse examples can be found in the following links:
 
 | SIE API guide sites|
 |:----------|
