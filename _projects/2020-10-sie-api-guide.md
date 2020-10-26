@@ -19,8 +19,6 @@ $\bigstar$ *[Click here](https://github.com/UBC-MDS/DSCI_522_Group_409) to look 
 
 *Author: Victor Cuspinera ([vcuspinera](https://github.com/vcuspinera))*  
 
-<center><img src="/images/feature_selection-logo.png" width="200" /></center>
-
 ```diff
 # ⚠️ The views and conclusions presented in this Repository are exclusively  #
 #     the responsibility of the author and do not necessarily reflect those  #
@@ -29,15 +27,16 @@ $\bigstar$ *[Click here](https://github.com/UBC-MDS/DSCI_522_Group_409) to look 
 
 ## Before starting
 
-#### Request a token
+### Request a token
 The first step to use the SIE API is to get an access token, which is a 64-alphanumeric string, which would be required to use the API. You can get it in [this link](https://www.banxico.org.mx/SieAPIRest/service/v1/token).  
 
-#### SIE series
+### SIE series
 
 [⭐️ Click here](https://www.banxico.org.mx/SieAPIRest/service/v1/doc/catalogoSeries) to look for the complete catalogue of the SIE's time series published by Banco de Mexico.
 
-#### Installation of R-package
+### Installation of R-package
 Banco de Mexico developed a package for R called `siebanxicor` for to automatically retrieve economic databases published in the SIE. You can install this package by running the next line:
+
 ```{r}
 install.packages("siebanxicor")
 ```
@@ -60,21 +59,19 @@ The `siebanxicor` R-package has five utility functions to retrieve information f
 
 _Note: In some cases, to use one of these functions you should previously use another(s) of the mentioned functions; for example, to use `getSeriesMetadata` you should previously call `setToken` and `getSeriesData`._  
 
-<br>
-
 Additionally, I have created a custome support function that can be found in the __src__ folder of this repo, for helping users to easily explore the time series:  
 
 - `SIE_function` - when giving the names of the code of different time series, it automatically prints and saves the plot of this series, prints the metadata, and returns the data in a tidy data frame format.
 
 [👉 Click here](https://github.com/vcuspinera/SIE_API_guide/blob/main/src/SIE_function_examples.pdf) to access to a complementary document developed to show additional examples of this custome function applied to different contexts with time-series published in the SIE by Banco de Mexico.
 
-### Documentation
+## Documentation
 The official documentation of the Economic Information System (SIE) can be found in the next links:
 
 | Website |
 |:----------|
-|[SIE](https://www.banxico.org.mx/SieInternet/) |
-|[SIE API](https://www.banxico.org.mx/SieAPIRest/service/v1/?locale=en)|
-|[Series Catalogue](https://www.banxico.org.mx/SieAPIRest/service/v1/doc/catalogoSeries)|
-|[`siebanxicor` R-Package](https://cran.r-project.org/web/packages/siebanxicor/siebanxicor.pdf)|
-|[Banco de Mexico](https://www.banxico.org.mx/indexen.html)|
+|[📁 SIE](https://www.banxico.org.mx/SieInternet/) |
+|[📊 SIE API](https://www.banxico.org.mx/SieAPIRest/service/v1/?locale=en)|
+|[🔎 Series Catalogue](https://www.banxico.org.mx/SieAPIRest/service/v1/doc/catalogoSeries)|
+|[⚙️ `siebanxicor` R-Package](https://cran.r-project.org/web/packages/siebanxicor/siebanxicor.pdf)|
+|[📌 Banco de Mexico](https://www.banxico.org.mx/indexen.html)|
