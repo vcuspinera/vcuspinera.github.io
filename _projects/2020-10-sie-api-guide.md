@@ -66,7 +66,7 @@ Additionally, I have created a custome support function that can be found in the
 [👉 Click here](https://github.com/vcuspinera/SIE_API_guide/blob/main/src/SIE_function_examples.pdf) to access to the complementary document developed to show additional examples of this custome function used in different contexts with time series published in the SIE by Banco de Mexico.
 
 ## Documentation
-The official documentation by Banco de Mexico related with the SIE in english can be found in the next sites:
+The official documentation by Banco de Mexico related with the SIE can be found in the next sites:
 
 | Official Websites|
 |:----------|
