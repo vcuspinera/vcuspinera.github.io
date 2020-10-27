@@ -14,8 +14,8 @@ tags:
   - Banxico
 ---
 
-The Economic Information System, known as SIE, is published by the Banco de Mexico to share the archive of different economic databases. This Central Bank has developed an API that allows developers, analysts and researchers to consult these time series.  The purpose of this project is serve as a guide to use SIE's API with the tools of the **`siebanxicor` R-package** developed by Banco de Mexico, as well as a custome function developed to easily explore the time series.  
-$\bigstar$ *[Click here](https://github.com/vcuspinera/SIE_API_guide) to look at the complete guide, tips and examples to use the SIE API in the GitHub repository.*  
+The Economic Information System, known as **SIE**, has been published by the Banco de Mexico to share the archive of different economic databases. This Central Bank has developed an API that allows developers, analysts and researchers to consult these time series.  The purpose of this project is serve as a guide to use SIE's API with the tools of the **`siebanxicor` R-package** developed by Banco de Mexico, as well as a custome function developed to easily explore the time series.  
+$\bigstar$ *[Click here](https://github.com/vcuspinera/SIE_API_guide) to look the GitHub repository with the complete guide, tips and examples to use the SIE API with R.*  
 
 *Author: Victor Cuspinera ([vcuspinera](https://github.com/vcuspinera))*  
 
@@ -32,7 +32,7 @@ The first step to use the SIE API is to get an access token, which is a 64-alpha
 
 ### SIE series
 
-[⭐️ Here](https://www.banxico.org.mx/SieAPIRest/service/v1/doc/catalogoSeries) you could find the complete catalogue of the SIE's series published by Banco de Mexico.
+⭐️ [Here](https://www.banxico.org.mx/SieAPIRest/service/v1/doc/catalogoSeries) you will find the complete catalogue of the SIE's series published by Banco de Mexico.
 
 ### Installation of R-package
 Banco de Mexico developed a package for R called `siebanxicor` for to automatically retrieve economic databases published in the SIE. You can install this package by running the next line:
@@ -63,7 +63,7 @@ Additionally, I have created a custome support function that can be found in the
 
 - `SIE_function` - when giving the names of the code of different time series, it automatically prints and saves the plot of this series, prints the metadata, and returns the data in a tidy data frame format.
 
-[👉 Click here](https://github.com/vcuspinera/SIE_API_guide/blob/main/src/SIE_function_examples.pdf) to access to the complementary document developed to show additional examples of this custome function used in different contexts with time series published in the SIE by Banco de Mexico.
+👉 [Click here](https://github.com/vcuspinera/SIE_API_guide/blob/main/src/SIE_function_examples.pdf) to access to the complementary document developed to show additional examples of this custome function used in different contexts with time series published in the SIE by Banco de Mexico.
 
 ## Documentation
 The official documentation by Banco de Mexico related with the SIE can be found in the next sites:
