@@ -26,7 +26,7 @@ The data that we use to build the model comes from the bike-sharing dataset crea
 
 This dataset contains the hourly information about the numbers of bike rentals in Washington, DC between 2011 and 2012. It has 17 variables, standing out:  
 
-1. `cnt` (*our tarjet*) count of total rental bikes including both casual and registered  
+1. `cnt` (*our target*) count of total rental bikes including both casual and registered  
 2. `season`: Season (**1**:spring, **2**:summer, **3**:fall, **4**:winter)  
 3. `dteday`: Date
 4. `hr`: Hour  
@@ -46,7 +46,7 @@ Among our finds, we observe that the demand for bikes increases when the weather
 
 <img src="https://raw.githubusercontent.com/vcuspinera/DSCI_522_Group_409/master/img/fig_2b_workingday.png" width="650"/>
 
-Figure 1. Analysis of temperatures by workingday  
+Figure 1. Analysis of temperatures by working day  
 
 The day of week and hour of the day clearly affects the count of bike rental. Also, people rent these bikes mainly for work and school on weekdays showing the peak of the demand in two times of the day. Besides, people use rental bikes between 11 am and 4 pm during weekends.  
 
@@ -64,7 +64,7 @@ The original dataset has categorical features preprocessed using label encoding 
 
 For the analysis we test different models from [Scikit-learn](https://scikit-learn.org/stable/), tunning different hyperparameters (i.e. ‘max_depth’ and ‘n_estimators’) which were chosen used 5-fold cross-validation with mean squared error as the regression metric.
 
-For this project we use both **the R** and **Python** programming langues, R mainly for Data Wrangling and Python for Model Selection.  
+For this project we use both **the R** and **Python** programming languages, R mainly for Data Wrangling and Python for Model Selection.  
 
 ## Results
 

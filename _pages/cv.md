@@ -96,9 +96,9 @@ Community Involvement and Leadership
 * **Mathematics Teacher Volunteer**. *Institute of Adult Education of Veracruz*, 1999-2002.
 * **Vice-President of Actuarial Students Association**. *UDLAP*, 2004-2005. Student representative at meetings with the Mathematics and Actuary faculty; collaborated in the 2014 Conference and 2005 Seminar Series.
 * **Accountant Volunteer**. *Fundacion Comunitaria Puebla*, 2005-2006. Collaborated with a multidisciplinary group of administrators, engineers, students and people from the region, in projects that promote the Social Development of communities in the Sierra Negra of Puebla.
-* **Production Volunteer**. *Lonerider Microbrewery*, 2013-2014. Supported the quality-control of production, as well as in diverse manually tasks.
+* **Production Volunteer**. *Lonerider Brewing Company*, 2013-2014. Supported the quality-control of production, and participated in diverse manually tasks.
 
 Personal Interests
 =======
 * **Social**. Interested to approach to different communities, promoting cultural exchange through the self-exposure to foreign or different customs and traditions, ideas and experiences.
-* **Hobbies**. Enjoy cooking through practice and experimentation, elaborating both traditional dishes and creative cuisine. Love to Swimm. Like exploring diverse datasets and doing visualizations. Interested in the intersection of Art and Economics.
+* **Hobbies**. Enjoy cooking through practice and experimentation, elaborating both traditional dishes and creative cuisine. Love to Swim. Like exploring diverse datasets and doing visualizations. Interested in the intersection of Art and Economics.

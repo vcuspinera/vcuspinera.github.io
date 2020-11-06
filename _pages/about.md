@@ -10,7 +10,7 @@ redirect_from:
 
 # Welcome to my skyline
 
-My name is Victor Hugo, as the [french writer](https://en.wikipedia.org/wiki/Victor_Hugo). I grew up in the East Coast of Mexico and, as a consequence, I like Piña Colada, getting caught in the warm rain, and the sound of the ocean.
+My name is Victor Hugo, as the [French writer](https://en.wikipedia.org/wiki/Victor_Hugo). I grew up in the East Coast of Mexico and, as a consequence, I like Piña Colada, getting caught in the warm rain, and the sound of the ocean.
 
 I come from very diverse backgrounds, while the family of my mother comes from the Maya's ethnic group, my father's family origin is from Spain and Ireland. I was always close to my grandfather who was born in Izamal, a little town in Yucatan's Peninsula. He was always kind and perseverant, two qualities that I have always try to follow.
 
@@ -18,7 +18,7 @@ I studied in the three [NAFTA](https://en.wikipedia.org/wiki/United_States–Mex
 
 Something about me, is that when I am stressed, thoughtful, happy or sad, I really enjoy cooking. I am also interested in the crossover between Economy and Arts. And nothing relaxes me more than swimming.
 
-I am happy to share my tougths and personal projects in this site. Feel free to drop me a line anytime.
+I am happy to share my thoughts and personal projects in this site. Feel free to drop me a line anytime.
 
 <center>
 <img src="/images/vic&pam_ubc.jpg" alt="cohort" width="50%" height="50%"/>  

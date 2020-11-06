@@ -25,7 +25,7 @@ $\bigstar$ *In the next links you can access to the original feature-selection s
 ## Features
 In this package, four functions are included for feature selection:
 
-- `forward_selection` - This iterative algorithm starts by considering each feature separately to determine the one that results in the model with best accuracy. The process is then repeated iteratively, adding another feature one at a time, again selecting the single feature that gives the best improvement in accuracy. This procedure stops when it is not longer possible to improve the model.
+- `forward_selection` - This iterative algorithm starts by considering each feature separately to determine the one that results in the model with best accuracy. The process is then repeated iteratively, adding another feature one at a time, again selecting the single feature that gives the best improvement in accuracy. This procedure stops when it is no longer possible to improve the model.
 
 - `recursive_feature_elimination` - The RFE is a model that initially considers all features with the goal of discovering the worst performing feature which is then removed from the dataset. This process is repeated until the desired number of features are attained.
 
