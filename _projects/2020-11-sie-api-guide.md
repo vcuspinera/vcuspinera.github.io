@@ -14,7 +14,7 @@ tags:
   - Banxico
 ---
 
-Banco de Mexico publishes the archive of national economic databases through the Economic Information System, known as **SIE**.  Also, this Central Bank has developed an **API** that allows Developers, Analysts and Researchers to consult automathically these time series.  To complement this effort, as a personal project, I prepared a guide to discolsure the SIE API, explaining how to retrieve information using the **`siebanxicor` R package** developed by Banco de Mexico, as well as a custom function to explore the selected series and a Dashboard to look into currency time series.  
+Banco de Mexico publishes the archive of national economic databases through the Economic Information System, known as **SIE**.  Also, this Central Bank has developed an **API** that allows Developers, Analysts and Researchers to consult automatically these time series.  To complement this effort, as a personal project, I prepared a guide to disclosure the SIE API, explaining how to retrieve information using the **`siebanxicor` R package** developed by Banco de Mexico, as well as a custom function to explore the selected series and a Dashboard to look into currency time series.  
 $\bigstar$ *[Click here](https://github.com/vcuspinera/SIE_API_guide) to look the GitHub repository with the complete guide, tips and dashboard to use the SIE API with R.*  
 
 *Author: Victor Cuspinera ([vcuspinera](https://github.com/vcuspinera))*  
@@ -66,7 +66,7 @@ Additionally, I have created a custom support function that can be found in the 
 
 - `SIE_function` - when giving the names of the code of different time series, it automatically prints and saves the plot of this series, prints the metadata, and returns the data in a tidy data frame format.
 
-⭐️ [Click here](https://github.com/vcuspinera/SIE_API_guide/blob/main/src/SIE_function_examples.pdf) to access to the complementary document developed to show additional examples of this custome function used in different contexts with time series published in the SIE by Banco de Mexico.
+⭐️ [Click here](https://github.com/vcuspinera/SIE_API_guide/blob/main/src/SIE_function_examples.pdf) to access to the complementary document developed to show additional examples of this custom function used in different contexts with time series published in the SIE by Banco de Mexico.
 
 ## Dashboard
 To complement this effort, I built a Dashboard that focus on Mexican Banknotes and Coins exploring currency time series from SIE API with the option of saving the database of the selected series, in wide or tidy format.  
