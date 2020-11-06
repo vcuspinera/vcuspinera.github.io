@@ -5,7 +5,7 @@ collection: projects
 type: "Guide"
 permalink: /projects/2020/sie-api-guide
 venue: "MDS-UBC GitHub"
-date: 2020-10-26
+date: 2020-11-06
 location: "Mexico City, Mexico"
 tags:
   - R
