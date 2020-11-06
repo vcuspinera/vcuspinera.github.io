@@ -15,14 +15,17 @@ tags:
 ---
 
 Banco de Mexico publishes the archive of national economic databases through the Economic Information System, known as **SIE**.  Also, this Central Bank has developed an **API** that allows Developers, Analysts and Researchers to consult automathically these time series.  To complement this effort, as a personal project, I prepared a guide to discolsure the SIE API, explaining how to retrieve information using the **`siebanxicor`** R package developed by Banco de Mexico, as well as a custom function to explore the selected series and a Dashboard to look into currency time series.  
-$\bigstar$ *[Click here](https://github.com/vcuspinera/SIE_API_guide) to look the GitHub repository with the complete guide, tips and examples to use the SIE API with R.*  
+$\bigstar$ *[Click here](https://github.com/vcuspinera/SIE_API_guide) to look the GitHub repository with the complete guide, tips and dashboard to use the SIE API with R.*  
 
 *Author: Victor Cuspinera ([vcuspinera](https://github.com/vcuspinera))*  
 
+Repository
+project
+
 ```diff
-# ⚠️ The views and conclusions presented in this Repository are exclusively  #
-#     the responsibility of the author and do not necessarily reflect those  #
-#     of Banco de Mexico.                                                    #
+# ⚠️ The views and conclusions presented in this project are exclusively #
+#     the responsibility of the author and do not necessarily reflect    #
+#     those of Banco de Mexico.                                          #
 ```
 
 ## Before starting
