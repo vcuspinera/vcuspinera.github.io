@@ -62,9 +62,9 @@ The `siebanxicor` R package has five utility functions to retrieve information f
 
 _Note: In some cases, to use one of these functions you should previously use another(s) of the mentioned functions; for example, to use `getSeriesMetadata` you should previously call `setToken` and `getSeriesData`._  
 
-Additionally, I have created a custom support function that can be found in the __src__ folder of this repo, to help Analysts and Researchers to easily explore the time series:  
+Additionally, I have created a custom support function that can be found in the __src__ folder of folder of the [API SIE Guide repository](https://github.com/vcuspinera/SIE_API_guide), to help Analysts and Researchers to easily explore the time series:  
 
-- `SIE_function` - when giving the names of the code of different time series, it automatically prints and saves the plot of this series, prints the metadata, and returns the data in a tidy data frame format.
+- `sie_function` - when giving the names of the code of different time series, it automatically prints and saves the plot of this series, prints the metadata, and returns the data in a tidy data frame format.
 
 ⭐️ [Click here](https://github.com/vcuspinera/SIE_API_guide/blob/main/src/SIE_function_examples.pdf) to access to the complementary document developed to show additional examples of this custom function used in different contexts with time series published in the SIE by Banco de Mexico.
 
@@ -90,5 +90,6 @@ Additionally, the links of to the complete guide of the SIE API, as well as dive
 | SIE API guide sites|
 |:----------|
 |📖 [Complete guide and tips to use SIE API](https://github.com/vcuspinera/SIE_API_guide) |
+|🕹 [Custom Dashboard with SIE API Currency series](https://github.com/vcuspinera/SIE_API_guide/tree/main/sie_app)|
 |📊 [Examples to use the `sie_function`](https://github.com/vcuspinera/SIE_API_guide/blob/main/src/SIE_function_examples.pdf)|
 |💰 [Analysis of Banknotes in Circulation](https://github.com/vcuspinera/SIE_API_guide/blob/main/src/SIE_banknotes_in_circulation.pdf)|
