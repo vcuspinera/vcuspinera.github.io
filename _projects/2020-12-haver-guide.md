@@ -16,7 +16,7 @@ tags:
 
 **Haver Analytics** is a company that collects Economic, Financial and Monetary **time series** in real time from international and official primary sources as Central Banks and Governments. Some institutions, as Banco de Mexico, have a subscription to consult the Haver Analytic's databases. The aim of this project is to share a Guide to use Haver Analytics, as **R bookdown**, which initial objective is helping my collegues from Banco de Mexico to retrieve information from these databases using R, Python and tools developed by Haver.  
 $\bigstar$ *[Click here](https://bookdown.org/vcuspinera/Guide_Haver_Analytics/) to see the Guide to use Haver Analytics.*  
-$\line$ ⚠️ Warning: the content of this Guide is in Spanish $\line$
+⚠️ Warning: the content of this Guide is in Spanish.
 
 *Author: Victor Cuspinera ([vcuspinera](https://github.com/vcuspinera))*  
 
@@ -27,10 +27,31 @@ $\line$ ⚠️ Warning: the content of this Guide is in Spanish $\line$
 #     those of Banco de Mexico.                                          #
 ```
 
+## Guía para usar Haver Analytics
 
-Haver Analytics es una empresa que se encarga de recopilar casi en tiempo real (con lag de 5 minutos) bases de datos con información económica, financiera y monetaria, a nivel global de distintas fuentes primarias oficiales como bancos centrales y gobiernos, o instituciones con gran reputación (IMF, Oxford, Johns Hopkins, etc.).   El Banco de México tiene contratada una subscripción a algunas de las bases de datos de esta empresa, por lo que cualquier trabajador del banco puede solicitar el acceso a esta información sin incurrir en costo adicional alguno.
+## Resumen
+Como se mencionó en el *abstract*, [Haver Analytics](http://www.haver.com) es una empresa que se encarga de recopilar en tiempo real, con un rezago de aproximadamente 5 minutos, bases de datos con información económica, financiera y monetaria, a nivel global de distintas fuentes primarias oficiales como bancos centrales y gobiernos, o instituciones con gran reputación como el Fondo Monetario Internacional (IMF), y Universidades como Oxford y Johns Hopkins.  Algunas instituciones, como el Banco de México, tienen contratada una subscripción a algunas de las bases de datos de esta empresa.  
 
+Esta guía fue desarrollada para ayudar a mis compañeros del Banco de México a consultar estas bases de datos usando R, Python y otras herramientas desarrolladas por Haver.  
 
-La guía que les comparto está enfocada a la Oficina de Estadística, pero podría ser útil para las distintas oficinas de la Subgerencia y tal vez Gerencia.
+[Click aquí](https://bookdown.org/vcuspinera/Guide_Haver_Analytics/) para acceder al libro electrónico con la Guía para usar Haver Analytics.
 
-Para poder publicar la guía como libro electrónico (R book) tuve que hacer un repositorio público en github (lo pueden ver aquí), por lo que no incluí las credenciales para acceder material de consulta como las guías completas en R y Python; sin embargo, en el siguiente cuadro encontrarán esta información por si la llegan a necesitar:
+## Índice
+
+1. [Introducción](https://bookdown.org/vcuspinera/Guide_Haver_Analytics/)  
+    1.1. [Salvedad de uso](https://bookdown.org/vcuspinera/Guide_Haver_Analytics/#salvedad-de-uso)  
+2. [Prerequisitos](https://bookdown.org/vcuspinera/Guide_Haver_Analytics/prereq.html)  
+    2.1. [Instalación del software](https://bookdown.org/vcuspinera/Guide_Haver_Analytics/prereq.html#instalación-del-software)
+3. [Acceso](https://bookdown.org/vcuspinera/Guide_Haver_Analytics/acceso.html)
+    3.1. [Aplicación DLX](https://bookdown.org/vcuspinera/Guide_Haver_Analytics/acceso.html#aplicación-dlx)  
+    3.2. [Add-in para Excel](https://bookdown.org/vcuspinera/Guide_Haver_Analytics/acceso.html#add-in-para-excel)  
+    3.3. [Consulta con R](https://bookdown.org/vcuspinera/Guide_Haver_Analytics/acceso.html#consulta-con-r)  
+    3.4. [Consulta con Python](https://bookdown.org/vcuspinera/Guide_Haver_Analytics/acceso.html#consulta-con-python)  
+4. [Series](https://bookdown.org/vcuspinera/Guide_Haver_Analytics/series.html)
+    4.1. [Bases de datos](https://bookdown.org/vcuspinera/Guide_Haver_Analytics/series.html#bases-de-datos)  
+    4.2. [Código de Series](https://bookdown.org/vcuspinera/Guide_Haver_Analytics/series.html#código-de-series)  
+5. [Contacto](https://bookdown.org/vcuspinera/Guide_Haver_Analytics/contacto.html)  
+6. [Referencias](https://bookdown.org/vcuspinera/Guide_Haver_Analytics/referencias.html)  
+
+## Repositorio en Github
+Además, puedes acceder al repositorio de Github de este libro electrónico en R bookdown en el [siguiente link](https://github.com/vcuspinera/Guide_Haver_Analytics).
