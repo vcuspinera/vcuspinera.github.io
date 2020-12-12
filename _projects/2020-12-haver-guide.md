@@ -14,10 +14,9 @@ tags:
   - Banxico
 ---
 
-**Haver Analytics** is a company that collects Economic, Financial and Monetary **time series** in real time from international and official primary sources as Central Banks and Governments. Some institutions, as Banco de Mexico, have a subscription to consult the Haver Analytic's databases. The aim of this project is to share a Guide to use Haver Analytics, as **R bookdown**, which initial objective is helping my collegues from Banco de Mexico to retrieve information from these databases using R, Python and tools developed by Haver.
+**Haver Analytics** is a company that collects Economic, Financial and Monetary **time series** in real time from international and official primary sources as Central Banks and Governments. Some institutions, as Banco de Mexico, have a subscription to consult the Haver Analytic's databases. The aim of this project is to share a Guide to use Haver Analytics, as **R bookdown**, which initial objective is helping my collegues from Banco de Mexico to retrieve information from these databases using R, Python and tools developed by Haver.  
+$\bigstar$ *[Click here](https://bookdown.org/vcuspinera/Guide_Haver_Analytics/) to see the Guide to use Haver Analytics.*
 <center>⚠ Warning: the content of this Guide is in Spanish</center>
-$\bigstar$ *[Click here](https://bookdown.org/vcuspinera/Guide_Haver_Analytics/) to see the Guide to use Haver Analytics.*  
-
 
 *Author: Victor Cuspinera ([vcuspinera](https://github.com/vcuspinera))*  
 
