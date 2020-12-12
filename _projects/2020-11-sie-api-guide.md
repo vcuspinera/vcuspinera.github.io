@@ -19,8 +19,6 @@ $\bigstar$ *[Click here](https://github.com/vcuspinera/Banxico_SIE_API_guide) to
 
 *Author: Victor Cuspinera ([vcuspinera](https://github.com/vcuspinera))*  
 
-Repository
-project
 
 ```diff
 # ⚠️ The views and conclusions presented in this project are exclusively #
