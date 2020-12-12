@@ -28,6 +28,8 @@ $\bigstar$ *[Click here](https://bookdown.org/vcuspinera/Guide_Haver_Analytics/)
 ```
 
 ## Guía para usar Haver Analytics
+*__Guide to use Haver Analytics__*
+*⚠️ Warning: the content of this document is in Spanish.*
 
 ## Resumen
 Como se mencionó en el *abstract*, [Haver Analytics](http://www.haver.com) es una empresa que se encarga de recopilar en tiempo real, con un rezago de aproximadamente 5 minutos, bases de datos con información económica, financiera y monetaria, a nivel global de distintas fuentes primarias oficiales como bancos centrales y gobiernos, o instituciones con gran reputación como el Fondo Monetario Internacional (IMF), y Universidades como Oxford y Johns Hopkins.  Algunas instituciones, como el Banco de México, tienen contratada una subscripción a algunas de las bases de datos de esta empresa.  
