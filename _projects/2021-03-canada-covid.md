@@ -30,11 +30,11 @@ The objective is to analyse the Canadian Government response to Covid-19 through
 ## Explanatory Data Analysis (EDA)
 When comparing the tweets per day by Canadian Government Twitter accounts, we find that between February and April 2020, the [@JustinTrudeau](https://twitter.com/JustinTrudeau) account had between 3.0 and 21.4 thousand tweets per day, [@Canada](https://twitter.com/Canada) had between 98 and 470 tweets, [@CanadianPM](https://twitter.com/CanadianPM) had between 104 and 1,179 tweets, and [@GovCanHealth](https://twitter.com/GovCanHealth) between 30 and 1,182 tweets per day.
 
-<img src="/images/canada-covid_EDA_tweets.png" width="650">
+<img src="/images/canada-covid_EDA_tweets.png" width="700">
 
 We also use a heatmap to identify the days where most people published tweets, in the period from February 1st to April 30th. For this, we calculate the Moving Averages with 7-day window, and normalize these averages by account using minimum and maximum number of tweets. With this analysis we identify the days with more tweets, removing weekly seasonality. Here we can identify an increase in number of tweets for all the Canadian Government's Twitter accounts from March 11th onwards, with a peak of tweets between March 14th and 17th.
 
-<img src="/images/canada-covid_EDA_heatmap.png" width="800">
+<img src="/images/canada-covid_EDA_heatmap.png" width="820">
 
 ⭐️ More details of the EDA are available in this [link](https://github.com/vcuspinera/Canada_response_covid/blob/master/src/eda.ipynb).
 
