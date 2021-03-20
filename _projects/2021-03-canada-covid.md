@@ -66,3 +66,14 @@ On the analysis we find that the announcement on March 11<sup>th</sup>, and the 
 
 - __Sentiment__: while the overall sentiment of tweets is positive, the announcement had different effect for the Government accounts. While the effect on [@Canada](https://twitter.com/canada?lang=en) account was a decrease in the average polarity, in the other hand we identify a rise in the positive sentiment of tweets related with the Canadian Prime Minister (which means an increase in the polarity levels of [@CanadianPM](https://twitter.com/CanadianPM) and [@JustinTrudeau](https://twitter.com/JustinTrudeau?s=20) accounts). The [@GovCanHealth](https://twitter.com/govcanhealth?lang=en) account was stable in polarity level before and after the announcement. 
 - __Volume__: we observed an increase in the total number of tweets and the average tweets per day. Also, the noncement affected the volume of actions and reactions of users increasing the number of likes, replies, retweets and quotes.
+
+## Main references
+
+- Government of Canada annoucements:
+  - March 11, 2020. Prime Minister outlines Canada’s COVID-19 response: [official announce](https://pm.gc.ca/en/news/news-releases/2020/03/11/prime-minister-outlines-canadas-covid-19-response), [video](https://youtu.be/YunI2PNZKxg).
+  - March 13, 2020. Prime Minister Trudeau updates Canadians on COVID-19: [official announce](https://pm.gc.ca/en/news/news-releases/2020/03/13/first-ministers-discuss-collective-efforts-address-impact-covid-19), [video](https://youtu.be/u70pUm7xHo0).
+  - March 27, 2020. Prime Minister announces support for small businesses facing impacts of COVID‑19: [official announce](https://pm.gc.ca/en/news/news-releases/2020/03/27/prime-minister-announces-support-small-businesses-facing-impacts), [video](https://youtu.be/1o-tV0A87l8).
+
+- [Timeline of the COVID-19 pandemic in Canada](https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic_in_Canada?fbclid=IwAR3_8GonnYCyH9lT_aWIYD9AiZEPKQ4pC0yMmY1gwWE1xKu04ksT3ixkNlU), Wikipedia.
+
+⭐️ [Click here](https://github.com/vcuspinera/Canada_response_covid/blob/master/References.md) to access the complete list of references for this project.
