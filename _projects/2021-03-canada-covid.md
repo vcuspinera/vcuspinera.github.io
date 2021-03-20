@@ -34,7 +34,7 @@ When comparing the tweets per day by Canadian Government Twitter accounts, we fi
 
 We also use a heatmap to identify the days where most people published tweets, in the period from February 1st to April 30th. For this, we calculate the Moving Averages with 7-day window, and normalize these averages by account using minimum and maximum number of tweets. With this analysis we identify the days with more tweets, removing weekly seasonality. Here we can identify an increase in number of tweets for all the Canadian Government's Twitter accounts from March 11th onwards, with a peak of tweets between March 14th and 17th.
 
-<img src="/images/canada-covid_EDA_heatmap.png" width="600">
+<img src="/images/canada-covid_EDA_heatmap.png" width="780">
 
 ⭐️ More details of the EDA are available in this [link](https://github.com/vcuspinera/Canada_response_covid/blob/master/src/eda.ipynb).
 
@@ -47,7 +47,7 @@ Additionally, we explore sentiment analysis with spaCy's `polarity` and `subject
 
 In this case, tweets published before and after the announcement have very similar Polarity and Subjectivity curves. While the polarity in both groups is very similar, in both cases it is skewed to have positive tweets. In the other hand, these tweets were much more objective than subjective.
 
-<img src="/images/canada-covid_sentiment_PolarSubject.png" width="600">
+<img src="/images/canada-covid_sentiment_PolarSubject.png" width="750">
 
 We also perform hypothesis testing polarity and subjectivity on tweets before and after the announcement on sub-samples of tweets, but we couldn't reject that both means of these measures were different.
 
