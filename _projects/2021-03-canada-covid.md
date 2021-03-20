@@ -69,7 +69,7 @@ On the analysis we find that the announcement on March 11<sup>th</sup>, and the 
 
 ## Main references
 
-- Government of Canada annoucements:
+- Government of Canada announcements:
   - March 11, 2020. Prime Minister outlines Canada’s COVID-19 response: [official announce](https://pm.gc.ca/en/news/news-releases/2020/03/11/prime-minister-outlines-canadas-covid-19-response), [video](https://youtu.be/YunI2PNZKxg).
   - March 13, 2020. Prime Minister Trudeau updates Canadians on COVID-19: [official announce](https://pm.gc.ca/en/news/news-releases/2020/03/13/first-ministers-discuss-collective-efforts-address-impact-covid-19), [video](https://youtu.be/u70pUm7xHo0).
   - March 27, 2020. Prime Minister announces support for small businesses facing impacts of COVID‑19: [official announce](https://pm.gc.ca/en/news/news-releases/2020/03/27/prime-minister-announces-support-small-businesses-facing-impacts), [video](https://youtu.be/1o-tV0A87l8).
