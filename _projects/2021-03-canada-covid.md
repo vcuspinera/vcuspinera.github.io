@@ -15,12 +15,12 @@ tags:
   - Python
 ---
 
-Sentiment analysis of __Twitter__'s users to measure the impact of the __Canadian Government policies__ to help Canadians cope with the __Covid-19__.
+Sentiment analysis of people's __tweets__ to measure the impact of the __Canadian Government policies__ to help Canadians cope with the __Covid-19__.  
 $\bigstar$ *[Click here](https://github.com/vcuspinera/Canada_response_covid) to look at the original GitHub repository of this project.*  
 
 *Authors: Leo Cuspinera ([cuspime](https://github.com/cuspime)), Victor Cuspinera ([vcuspinera](https://github.com/vcuspinera))*  
 
-<center><img src="/images/canada-covid_logo.png" width="150" /></center>
+<center><img src="/images/canada-covid_logo.png" width="180" /></center>
 
 ## Overview
 The idea of this project was born on March 11th of 2020, when the Prime Minister of Canada, Justin Trudeau, announced a series of [policies to help Canadians cope with the Covid-19](https://youtu.be/YunI2PNZKxg).
