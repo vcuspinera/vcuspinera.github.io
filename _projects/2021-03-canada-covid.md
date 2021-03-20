@@ -59,7 +59,7 @@ Finally, the announcement also impacted in the volume of tweets, as well the act
 
 <img src="/images/canada-covid_sentiment_reactions.png" width="700">
 
-[⭐️ click here](https://github.com/vcuspinera/Canada_response_covid/blob/master/src/sentiment_analysis.ipynb) to see more details about the sentiment analysis.
+⭐️ More details of the Sentiment Analysis are available in this [link](https://github.com/vcuspinera/Canada_response_covid/blob/master/src/sentiment_analysis.ipynb).
 
 ## Final comments
 On the analysis we find that the announcement on March 11<sup>th</sup>, and the following announcements of the Government policies related with COVID-19, had an impact in the volume and sentiment of tweets: 
