@@ -26,7 +26,8 @@ $\bigstar$ *[Click here](https://github.com/vcuspinera/Canada_response_covid) to
 
 <div style="text-align: right">
   <font size="3">
-    <i>“Our message to Canadians is clear: to every worker and business, in every province and territory, we have your back and we will get through this together.”</i><br>
+    <i>“Our message to Canadians is clear: to every worker and business, in every province <br> 
+        and territory, we have your back and we will get through this together.”</i><br>
     <span style="color:gray">— Justin Trudeau, Prime Minister of Canada. Press conference on March 11, 2020.</span>
   </font>
 </div>
