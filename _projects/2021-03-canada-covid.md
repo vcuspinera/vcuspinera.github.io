@@ -25,11 +25,13 @@ $\bigstar$ *[Click here](https://github.com/vcuspinera/Canada_response_covid) to
 ## Overview
 
 <div style="text-align: right">
-  <font size="2">
-    <p><i>“Our message to Canadians is clear: to every worker and business, in every province and territory, we have your back and we will get through this together.”</i></p>
-    <p style="color:gray">— Justin Trudeau, Prime Minister of Canada. Press conference on March 11, 2020.</p>
+  <font size="3">
+    <i>“Our message to Canadians is clear: to every worker and business, in every province and territory, we have your back and we will get through this together.”</i><br>
+    <span style="color:gray">— Justin Trudeau, Prime Minister of Canada. Press conference on March 11, 2020.</span>
   </font>
 </div>
+
+<br>
 
 The idea of this project was born on March 11th of 2020, when the Prime Minister of Canada, Justin Trudeau, announced a series of [policies to help Canadians cope with the COVID-19](https://youtu.be/YunI2PNZKxg).
 
