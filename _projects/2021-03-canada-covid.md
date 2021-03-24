@@ -3,7 +3,7 @@ title: "Canada response to COVID-19"
 author: "Leo Cuspinera, Victor Cuspinera"
 collection: projects
 type: "Personal_projects"
-permalink: /projects/2020/canada-covid
+permalink: /projects/2021/canada-covid
 venue: "GitHub.com"
 date: 2021-03-23
 location: "Venice, Italy / Mexico City, Mexico"
@@ -15,14 +15,12 @@ tags:
   - Python
 ---
 
-Sentiment analysis of people's __tweets__  referring to __Canadian__ Government's accounts after the Prime Minister of Canada -Justin Trudeau- announcement of policies as response of __COVID-19__.  
+The idea of this project was born on March 11th of 2020, when the Prime Minister of Canada, Justin Trudeau, announced a series of [policies to help Canadians cope with the COVID-19](https://youtu.be/YunI2PNZKxg). The objective is to __measure the impact of the Government policies__ to help Canadians cope with the __COVID-19__, studying people's perception by making __sentiment analysis__ on users' tweets, before and after the Prime Minister's announcement.  
 $\bigstar$ *[Click here](https://github.com/vcuspinera/Canada_response_covid) to look at the original GitHub repository of this project.*  
 
 *Authors: Leo Cuspinera ([cuspime](https://github.com/cuspime)), Victor Cuspinera ([vcuspinera](https://github.com/vcuspinera))*  
 
 <center><img src="/images/canada-covid_logo.png" width="180" /></center>
-
-## Overview
 
 <div style="text-align: right">
   <font size="3">
@@ -33,9 +31,8 @@ $\bigstar$ *[Click here](https://github.com/vcuspinera/Canada_response_covid) to
 </div>
 <br>
 
-The idea of this project was born on March 11th of 2020, when the Prime Minister of Canada, Justin Trudeau, announced a series of [policies to help Canadians cope with the COVID-19](https://youtu.be/YunI2PNZKxg).
-
-The objective is to measure the impact of the Government policies to help Canadians cope with the COVID-19, studying people's perception by making sentiment analysis on users' tweets, before and after the Prime Minister's announcement. To compare the public opinion in the Twittersphere, we decided to make a thorough scrapping of tweets using [`snscrape` library](https://github.com/vcuspinera/Canada_response_covid/blob/master/src/twitter-search_v3_snscrape.ipynb), from February 1st 2020 to April 30th 2020, that mentioned at least one of the four aforementioned accounts of the Canadian Government: [@Canada](https://twitter.com/canada?lang=en), [@CanadianPM](https://twitter.com/CanadianPM), [@JustinTrudeau](https://twitter.com/JustinTrudeau?s=20) and [@GovCanHealth](https://twitter.com/govcanhealth?lang=en). After this step, we preprocessing the database to delete some sensible information as emails and urls.
+## Downloading tweets
+To compare the public opinion before and after Trudeau's announcement in the Twittersphere, the first obvious step is getting the tweets. We decided to make a thorough scrapping of tweets using [`snscrape` library](https://github.com/vcuspinera/Canada_response_covid/blob/master/src/twitter-search_v3_snscrape.ipynb), from February 1st 2020 to April 30th 2020 that mentioned at least one of the four aforementioned accounts of the Canadian Government: [@Canada](https://twitter.com/canada?lang=en), [@CanadianPM](https://twitter.com/CanadianPM), [@JustinTrudeau](https://twitter.com/JustinTrudeau?s=20) and [@GovCanHealth](https://twitter.com/govcanhealth?lang=en). After this step, we clean the database by preprocessing sensible information as emails and urls, and droping tweets with adds.
 
 ## Explanatory Data Analysis (EDA)
 When plotting tweets that mention at least one of the Canadian Government Twitter accounts we find that between February and April 2020, the [@JustinTrudeau](https://twitter.com/JustinTrudeau) account had between 3.0 and 21.4 thousand tweets per day, [@Canada](https://twitter.com/Canada) had between 98 and 470 tweets per day, [@CanadianPM](https://twitter.com/CanadianPM) had between 104 and 1,179 tweets per day, and [@GovCanHealth](https://twitter.com/GovCanHealth) between 30 and 1,182 tweets per day.
