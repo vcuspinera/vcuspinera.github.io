@@ -20,16 +20,17 @@ $\bigstar$ *[Click here](https://github.com/vcuspinera/Canada_response_covid) to
 
 *Authors: Leo Cuspinera ([cuspime](https://github.com/cuspime)), Victor Cuspinera ([vcuspinera](https://github.com/vcuspinera))*  
 
-<center><img src="/images/canada-covid_logo.png" width="180" /></center>
-
+<br>
 <div style="text-align: right">
   <font size="3">
-    <i>“Our message to Canadians is clear: to every worker and business, in every province <br> 
-        and territory, we have your back and we will get through this together.”</i><br>
+    <i>“Our message to Canadians is clear: to every worker and business, in every and<br> 
+        territory, we have your back and we will get through this together.”</i><br>
     <span style="color:gray">— Justin Trudeau, Prime Minister of Canada. Press conference on March 11th, 2020.</span>
   </font>
 </div>
 <br>
+
+<center><img src="/images/canada-covid_logo.png" width="180" /></center>
 
 ## Downloading tweets
 To compare the public opinion before and after Trudeau's announcement in the Twittersphere, the first obvious step is getting the tweets. We decided to make a thorough scrapping of tweets using [`snscrape` library](https://github.com/vcuspinera/Canada_response_covid/blob/master/src/twitter-search_v3_snscrape.ipynb), from February 1st 2020 to April 30th 2020 that mentioned at least one of the four aforementioned accounts of the Canadian Government: [@Canada](https://twitter.com/canada?lang=en), [@CanadianPM](https://twitter.com/CanadianPM), [@JustinTrudeau](https://twitter.com/JustinTrudeau?s=20) and [@GovCanHealth](https://twitter.com/govcanhealth?lang=en). After this step, we clean the database by preprocessing sensible information as emails and urls, and droping tweets with adds.
