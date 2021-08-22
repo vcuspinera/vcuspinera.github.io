@@ -42,7 +42,7 @@ When comparing the databases of popular names from Spain, the U.S. and Canada, i
 
 While the growth in the average number of people per name is stable for the USA and Canada around 0% level, it is not for Spain, probably because it contains only the 100 most popular names in Spain, compared with the extensive list of names in the USA and Canada data.
 
-<img src="img/baby-names_1_growth_names.png" width="700">
+<img src="images/baby-names_1_growth_names.png" width="700">
 
 [⭐️ click here](https://github.com/vcuspinera/Baby_names/blob/main/src/analysis.ipynb) to see the notebook with the complete EDA and main analysis.
 
@@ -56,27 +56,27 @@ Between the favorite names of our baby, while using the Spain database, the most
 
 In the other hand, the youngest name is **aisha** with an average age of 9.9 years old, followed by **gina** with an average of 21.4 years old, **amanda** with 24.8 years old, **macarena** with 29.9 years old, **victoria** with 46.7 years old, **elisa** with 48.7 years old, and **carlina** with 61.2 years old.
 
-<img src="img/baby-names_2_spain.png" width="750">
+<img src="images/baby-names_2_spain.png" width="750">
 
 Until now we haven't talk much about the second source from the _Instituto Nacional de Estadística_ from Spain that contain the data of names with frequency equal to or greater than 20 people in 2019. The beauty of this source is that it contains the complete list of names considering also compound names, which was helpful to identify the most common compound names associated with the list of our favorite names, and its average age. For example, the name __maria victoria__ contains the name __victoria__ and it is the most popular name that contain one of our favorite options for our baby girl, however, its average age was 53 years old which means it is a name for older people.
 
-<img src="img/baby-names_3_victoria.png" width="400">
+<img src="images/baby-names_3_victoria.png" width="400">
 
 In this sense, in the databases we could find 243 compound names that includes __victoria__, 82 with __elisa__, 31 with __macarena__, 28 with __amanda__, 10 with __gina__, and 3 with __aisha__ and 2 with __carlina__.
 
 The next plot shows the comparison between frequency and average age for all single and compound names that contain one of our seven favorite names for our baby girl.
 
-<img src="img/baby-names_4_favorite.png" width="750">
+<img src="images/baby-names_4_favorite.png" width="750">
 
 Finally, the following word cloud presents the compound names with frequency equal to 75 or more observations. While the nodes represent each name, the arrows show the order of connection between names and the darker the arrow, the stronger is the connection between names. For example, the names **maria** and **victoria** are connected in both ways and forms the compound names **maria victoria** and **victoria maria**.
 
-<img src="img/baby-names_5_wordcloud.png" width="550">
+<img src="images/baby-names_5_wordcloud.png" width="550">
 
 ### USA 🇺🇸
 
 For the U.S. plot, I am presenting the trend of newborn babies per year from 1950 to 2019 that had any of our seven favorite names.
 
-<img src="img/baby-names_6_usa.png" width="700">
+<img src="images/baby-names_6_usa.png" width="700">
 
 Here we find that while **victoria** has been popular for all years, **gina** became the most popular name in the late 60's and **amanda** in the 80's. The name **elisa** has been in the middle range of our favorite names with values around 500 observations per year, while **aisha** popularity increased from around 10 observations on the 60's to 1,000 on the 70's and became steady on that level. Finally, the names **carlina** and **macarena** are the least popular from our list in records from the U.S.
 
@@ -84,7 +84,7 @@ Here we find that while **victoria** has been popular for all years, **gina** be
 
 In this case the following plot presents the trend of newborn babies per year from 1950 to 2019 in British Columbia, Canada, that had any of our favorite names. In this case, the database has information of five from our seven selected names: __victoria__, __elisa__, __amanda__, __gina__ and __aisha__.
 
-<img src="img/baby-names_7_canada.png" width="700">
+<img src="images/baby-names_7_canada.png" width="700">
 
 Similar to the plot from the U.S., here we find that **victoria** has been popular for all years and **amanda** became the most popular name in the 80's and 90's. The popularity of **gina** decreased over time. And finally, the names **elisa** and **aisha** have low records.
 
@@ -93,11 +93,11 @@ Similar to the plot from the U.S., here we find that **victoria** has been popul
 
 The last effort of this analysis is to construct a tool that measures how well a surname combines with anothers surname and/or family names.
 
-For this purpose, I transform the names to their Spanish and English phonetic notation using the [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet), and look for ryhmes in English and Spanish for each comparison between each two strings (names). For example, in the name **maria victoria smith** this function gets the score for the comparison between (1) **maria** and **victoria**, (2) **maria** and **smith**, and (3) **victoria** with **smith**.
+For this purpose, I transform the names to their Spanish and English phonetic notation using the [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet), and look for consonance and assonance rhymes in English and Spanish for each comparison between each two strings (names). For example, in the name **maria victoria smith** this function gets the score for the comparison between (1) **maria** and **victoria**, (2) **maria** and **smith**, and (3) **victoria** with **smith**.
 
 In each of this two-strings comparison, I get three scores: Spanish, English and Total. Finally, for complete names with more than two strings I average all scores for Spanish, all scores for English, and all Total scores getting also three final scores (Spanish, English and Total) for a complete name.
 
-[⭐️ click here](https://github.com/vcuspinera/Baby_names/blob/main/src/Names_rhyme.py) to look into the class used to get scores of rhymes of names.  
+[⭐️ click here](https://github.com/vcuspinera/Baby_names/blob/main/src/Names_rhyme.py) to look into more details of the Python Class and functions developed to get scores by using consonance and assonance rhymes of names.
 
 😅 **_Fun fact:_** when I finally arrived to this point of the analysis on mid-April 2021, my wife already choose a name for our baby girl: **elisa**. From this point, it was on my side to choose if I wanted a compound name for the baby.  
 
