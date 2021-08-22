@@ -1,5 +1,5 @@
 ---
-title: "Canada response to COVID-19"
+title: "Choosing a baby name using Python"
 author: "Victor Cuspinera"
 collection: projects
 type: "Personal_projects"
