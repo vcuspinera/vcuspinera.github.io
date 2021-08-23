@@ -54,7 +54,7 @@ This section I would present the main finds of the descriptive analysis of the p
 
 Between the favorite names of our baby, while using the Spain database, the most used name is **victoria** with 59.6 thousand females, followed by **elisa** with 36.3 thousand people, **macarena** with 14.4 thousand, **amanda** with 12.9 thousand, **gina** with 2.3 thousand, **aisha** with 2.0 thousand, and **carlina** with 147 people.
 
-<img src="/images/baby-names_2_spain.png" width="450">
+<img src="/images/baby-names_2_spain_freq.png" width="450">
 
 In the database from Spain, we can also found the most frequent compound names in 2019. So, looking for the compound names that include one of our seven favourite names, we could find 243 compound names that includes **victoria**, 82 with **elisa**, 31 with **macarena**, 28 with **amanda**, 10 with **gina**, and 3 with **aisha** and 2 with **carlina**. This database, also includes the average age of all single and compound names.
 
