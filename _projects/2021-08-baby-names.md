@@ -13,7 +13,7 @@ tags:
   - Python
 ---
 
-Getting a __name for a baby__ is not as trivial as people could think, or at least not for my wife and me. We look for names for our baby girl everywhere and we pick some options. However, I started to wonder if we were looking in the right places and if there could be a way to measure which would be the best name for our daughter. So, I found three databases with names from Spanish and English-speaking countries, analyzed trends and top frequent names, and wrote down a list of all possible names. Finally, I developed an tool that transforms the names using the __International Phonetic Alphabet__ and measures how well a surname sounds with another surname and/or family names in both English and Spanish, by returning a score to make it easier finding possible names for a baby.  
+Getting a __name for a baby__ is not as trivial as people could think, or at least not for my wife and me. We look for names for our baby girl everywhere and we pick some options. However, I started to wonder if we were looking in the right places and if there could be a way to measure which would be the best name for our daughter. So, I found three databases with names from Spanish and English-speaking countries, analyzed trends and top frequent names, and wrote down a list of all possible names. Finally, I developed an tool that transforms the names using the __International Phonetic Alphabet__ and measures how well a first name sounds with a middle name and/or family names in both English and Spanish, by returning a score to make it easier finding possible names for a baby.  
 $\bigstar$ *[Click here](https://github.com/vcuspinera/Baby_names) o see the GitHub repository with the complete analysis of this project.*  
 
 *Author: Victor Cuspinera ([vcuspinera](https://github.com/vcuspinera))*  
@@ -22,7 +22,7 @@ $\bigstar$ *[Click here](https://github.com/vcuspinera/Baby_names) o see the Git
 
 When we were expecting our first baby girl, during the last five months of the pregnancy, we looked for options of names on different sources as websites and books with popular baby names, websites with international names, asked recommendations between our friends, or even wrote down names of movies and tv series characters. After months of searching names, on early April of 2021 we came with a list of our favourite names for the baby girl. My wife's choices were: **Elisa** and **Macarena**. In my side, I had a wider list: **Aisha, Amanda, Carlina, Gina** and **Victoria**.  
 
-However, we didn't agree in a name for the baby. So, I started to wonder how we could make the best selection of the name for our baby? Which are the most popular names? Is there a way to measure how well a surname sounds combined with the family name?  
+However, we didn't agree in a name for the baby. So, I started to wonder how we could make the best selection of the name for our baby? Which are the most popular names? Is there a way to measure how well a first name sounds combined with the family name?  
 
 ## Databases
 
@@ -80,7 +80,7 @@ Similar to the plot from the U.S., here we find that **victoria** has been popul
 
 ## Scoring names using [International Phonetic Alphabet (IPA)](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet)
 
-The last effort of this analysis is to construct a tool that measures how well a surname combines with anothers surname and/or family names.
+The last effort of this analysis is to construct a tool that measures how well a first name combines with a middle name and/or family names.
 
 For this purpose, I transform the names to their Spanish and English phonetic notation using the [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet), and look for consonance and assonance rhymes in English and Spanish for each comparison between each two strings (names). For example, in the name **maria victoria smith** this function gets the score for the comparison between (1) **maria** with **victoria**, (2) **maria** with **smith**, and (3) **victoria** with **smith**. In each of this two-strings comparison, I get three scores: Spanish, English and Total. Finally, for complete names with more than two strings I average all scores for Spanish, all scores for English, and all Total scores getting also three final scores (Spanish, English and Total) for a complete name.
 
