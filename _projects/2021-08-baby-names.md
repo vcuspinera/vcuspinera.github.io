@@ -18,6 +18,10 @@ $\bigstar$ *[Click here](https://github.com/vcuspinera/Baby_names) o see the Git
 
 *Author: Victor Cuspinera ([vcuspinera](https://github.com/vcuspinera))*  
 
+<centre><img src="/images/baby-names_0_keyboard.png" width="750"></centre>
+
+<centre><i>Elisa on the keyboard. Image by Victor Cuspinera.</i></centre>
+
 ## Introduction
 
 When we were expecting our first baby girl, during the last five months of the pregnancy, we looked for options of names on different sources as websites and books with popular baby names, websites with international names, asked recommendations between our friends, or even wrote down names of movies and tv series characters. After months of searching names, on early April of 2021 we came with a list of our favourite names for the baby girl. My wife's choices were: **Elisa** and **Macarena**. In my side, I had a wider list: **Aisha, Amanda, Carlina, Gina** and **Victoria**.  
