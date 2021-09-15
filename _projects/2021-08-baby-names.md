@@ -20,9 +20,7 @@ $\bigstar$ *[Click here](https://github.com/vcuspinera/Baby_names) o see the Git
 
 <img src="/images/baby-names_0_keyboard.png" width="750">
 
-<a>
-<centre><i>Elisa on the keyboard. Image by Victor Cuspinera.</i></centre>
-</a>
+__Elisa on the keyboard. Image by Victor Cuspinera.__
 
 ## Introduction
 
