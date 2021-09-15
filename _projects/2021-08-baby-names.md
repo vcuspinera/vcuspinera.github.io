@@ -4,7 +4,7 @@ author: "Victor Cuspinera"
 collection: projects
 type: "Personal_projects"
 permalink: /projects/2021/baby-names
-venue: "GitHub.com"
+venue: "Towards Data Science"
 date: 2021-08-20
 location: "Mexico City, Mexico"
 tags:
