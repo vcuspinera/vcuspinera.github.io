@@ -91,7 +91,7 @@ Honours and fellowships
 * **Honors: Magna Cum Laude.** *[UDLAP](https://www.udlap.mx/web/en/)*, 2007
 * **Member of the Dean’s List.** *[UDLAP](https://www.udlap.mx/web/en/)*, 2003
 * **Jenkins Scholarship Holder.** *[UDLAP](https://www.udlap.mx/web/en/)*, 2002–2006
-* **First Place at the Regional Mathematical Olympiad.** *Universidad Veracruzana*, 2001
+* **First Place at the Regional Mathematical Olympiad.** *[Universidad Veracruzana](https://www.uv.mx/en/)*, 2001
 
 Publications
 =======
