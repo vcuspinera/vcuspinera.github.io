@@ -101,7 +101,12 @@ Publications
   
 Community Involvement and Leadership
 =======
-* **Data Scientist**. *[Omdena](https://omdena.com)*, 2021. Collaborated in a project to build a career recommendation system for students in Colombia, leaded by Omdena's Colombia chapter.
+* **Data Scientist**. *[Omdena](https://omdena.com)*, 2021-now. Collaborated in diverse data science projects:
+
+  - *LATAM Chapter (Feb 2021-now)*. Currently working in the project "[Politics Fake News Detector in Latin America](https://omdena.com/omdena-chapter-page-mexico/)", lead by Omdena's Mexico, Colombia and El Salvador Chapters.
+
+  - *Colombia Chapter (Oct-Dec 2021)*. Collaborated in the project of "[Building a Career Recommendation System to make suggestions to Students](https://omdena.com/omdena-chapter-page-colombia/)", lead by Omdena Colombia Chapter.
+
 * **Production Volunteer**. *[Lonerider Microbrewery](https://loneriderbeer.com)*, 2013-2014. Supported the quality-control of production, and participated in diverse manually tasks.
 * **Accountant Volunteer**. *[Fundacion Comunitaria Puebla IBP](https://fcpuebla.org)*, 2005-2006. Collaborated with a multidisciplinary group of administrators, engineers, students and people from the region, in projects that promote the Social Development of communities in the Sierra Negra of Puebla.
 * **Vice-President of Actuarial Students Council**. *[UDLAP](https://www.udlap.mx/web/en/)*, 2004-2005. Student representative at meetings with the Mathematics and Actuary faculty; collaborated in the 2014 Conference and 2005 Seminar Series.
