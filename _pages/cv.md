@@ -35,11 +35,16 @@ Work experience
   * Analyze information reported by commercial banks.
   * Generate statistical and operational reports.
   * Analyze information from social networks related with currency.
-  * Supervisor: [Cristina Suarez](https://www.linkedin.com/in/cristina-suárez-lópez-53847856/) (2021-now), [Jorge Barrera](https://www.linkedin.com/in/jorge-barrera-ceballos-b4973738/) (2020-2021)
+  * Supervisor: [Cristina Suarez-Lopez](https://www.linkedin.com/in/cristina-suárez-lópez-53847856/) (2021-now), [Jorge Barrera-Ceballos](https://www.linkedin.com/in/jorge-barrera-ceballos-b4973738/) (2020-2021)
+
+* **Innovation and Development**  
+  *January 2023 - now. [Universidad Cristobal Colón](https://www.ucc.mx), Remote*  
+  * Designed the Master's Data Science program and currently working in the development of the curricula for the Bachelor's degree in Data Science, headed by Academic Division of Engineering, Architecture and Actuarial Science.
+  * Coordinator: [Sergio Roman-Jara](https://www.linkedin.com/in/sergio-roman-jara-608ab837/?originalSubdomain=mx) (2023-now)
 
 * **Professor**  
   *January 2022 - now. [Universidad de Guadalajara](http://mcd.cucea.udg.mx), Remote*  
-  * In charge of Project Development II course for the UDG's [Master of Data Science program](http://mcd.cucea.udg.mx).
+  * In charge of Project Development I & II courses for UDG's [Master of Data Science program](http://mcd.cucea.udg.mx).
   * Coordinator: [Ana Rosa Jimenez](https://www.linkedin.com/in/ana-rosa-jiménez-158a057b/) (2022-now)
 
 * **UBC MDS Capstone Project with BC Stats**  
