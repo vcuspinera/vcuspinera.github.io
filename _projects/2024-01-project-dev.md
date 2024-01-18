@@ -13,12 +13,12 @@ tags:
   - Data Science
 ---
 
-In January 2022, I start teaching the __Project Development course__ of the Master in Data Science at Universidad de Guadalajara (UDG). I took this as a Medium-term personal project and, after almost two years of inherit this course, I have selected different data science tools and material for the students in order to learn and use it wor their future projects and, in some cases, for their thesis. 
+In January 2022, I start teaching the __Project Development course__ of the __Master in Data Science__ at __[UDG](https://www.udg.mx/en/inicio)__. I took this as a Medium-term personal project and, after two years of inherit this course, I selected different data science material and tools for the students to learn and use it for future projects and, in some cases, for their thesis. These material includes collaborative yhe use of version control software __GitHub__, an overview of Markdown and User Interface commands, perform __EDA__ and use tools for web scraping, interactive graphics, text analysis, wordclouds and maps with Python.  
 $\bigstar$ *[Click here](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I) o see the GitHub public repository with the material of the course.*  
 
 *Author: Victor Cuspinera ([vcuspinera](https://github.com/vcuspinera))*  
 
-<img src="/images/project_dev_logo.png" width="160" align="centre">
+<img src="/images/project_dev_logo.png" width="200" align="center">
 
 _Logo made for the Project Development course. Image by Victor Cuspinera._
 
