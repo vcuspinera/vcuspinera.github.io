@@ -32,7 +32,7 @@ In almost two years, since I start teaching this course in January 2022 until De
 [Click here](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I) to access to the public repository of the course.
 
 ## Projects
-In this section I will share the mid-term and final projects developed by students from the last year.
+In this section I will share the mid-term and final projects developed by students in 2023.
 
 ### 2023 fall
 
@@ -72,14 +72,14 @@ In this section I will share the mid-term and final projects developed by studen
 
 #### Mid-semester projects where we developed an EDA in GitHub
 
-- [Disney+ 🐭](https://lnkd.in/dTVN6-Nd) by Alberto Martínez Lara
-- [Dataset Videogames 👾](https://lnkd.in/du4kyUuU) by Alejandro Camacho
-- [Supermarket 🥕](https://lnkd.in/dcq-U4G5) by Cesar Medina
-- [Unsafe conditions in Jalisco 🔫](https://lnkd.in/dWCHXzpG) by Eduardo Rios
-- [Deaths in Mexico ☠️](https://lnkd.in/dvRQ4Zsn) by Gabriel Varela
-- [Glucose Tolerance Test nhanes 💊](https://lnkd.in/d-FwXRkx) by Luis Daniel Souza
-- [Climate change 🌎](https://lnkd.in/dxEwW2vS) by Luis Vallarta
-- [World Stockmarket Data 📈](https://lnkd.in/dE3bMc8V) by Manuel Gastelum
-- [Metacritic Videogames Scores 🕹️](https://lnkd.in/dncnYA-R) by Mauricio Tenorio
-- [Trust and Media Consumption 🔍](https://lnkd.in/dCqpcf8n) by Monserrat Pineda
-- [EDA IMBD 250 🎥](https://lnkd.in/dGPSvg_5) by Ricardo Gutierrez Roque
+- [DISNEY+ 🐭](https://lnkd.in/dTVN6-Nd) by Alberto Martínez Lara
+- [DATASET VIDEOGAMES 👾](https://lnkd.in/du4kyUuU) by Alejandro Camacho
+- [SUPERMARKET 🥕](https://lnkd.in/dcq-U4G5) by Cesar Medina
+- [UNSAFE CONDITIONS IN JALISCO 🔫](https://lnkd.in/dWCHXzpG) by Eduardo Rios
+- [DEATHS IN MEXICO ☠️](https://lnkd.in/dvRQ4Zsn) by Gabriel Varela
+- [GLOCOSE TOLERANCE TEST NHANES 💊](https://lnkd.in/d-FwXRkx) by Luis Daniel Souza
+- [CLIMATE CHANGE 🌎](https://lnkd.in/dxEwW2vS) by Luis Vallarta
+- [WORLD STOCKMARKET DATA 📈](https://lnkd.in/dE3bMc8V) by Manuel Gastelum
+- [METACRITIC VIDEOGAMES SCORES 🕹️](https://lnkd.in/dncnYA-R) by Mauricio Tenorio
+- [TRUST AND MEDIA CONSUMPTION 🔍](https://lnkd.in/dCqpcf8n) by Monserrat Pineda
+- [IMBD 250 🎥](https://lnkd.in/dGPSvg_5) by Ricardo Gutierrez Roque
