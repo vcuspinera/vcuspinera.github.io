@@ -32,20 +32,24 @@ Work experience
 =======
 * **Researcher**  
   *Jul 2020 - NOW. [Banco de Mexico](https://www.banxico.org.mx), Mexico City*  
+  *-Research & Development / Information Office / Statistics -*
+  * Participate in banknote circulation test of alternative varnishes and inks.
   * Analyze information reported by commercial banks.
   * Generate statistical and operational reports.
   * Analyze information from social networks related with currency.
-  * Supervisor: [Cristina Suarez-Lopez](https://www.linkedin.com/in/cristina-suárez-lópez-53847856/) (2021-now), [Jorge Barrera-Ceballos](https://www.linkedin.com/in/jorge-barrera-ceballos-b4973738/) (2020-2021)
-
-* **Innovation and Development**  
-  *Jan 2023 - NOW. [Universidad Cristobal Colon](https://www.ucc.mx), Remote*  
-  * Designed the Master in Data Science and Bachelor degree in Data Science and Business Intelligence programs, headed by the Academic Division of Engineering, Architecture and Actuarial Science
-  * Coordinator: [Sergio Roman-Jara](https://www.linkedin.com/in/sergio-roman-jara-608ab837/?originalSubdomain=mx) (Jan. 2023 - now)
+  * Supervisor: [Roberto Rosas](https://www.linkedin.com/in/roberto-gazelem-rosas-gonzalez-3a307732/) (2024-now), [Cristina Suarez](https://www.linkedin.com/in/cristina-suárez-lópez-53847856/) (2021-2024), [Jorge Barrera](https://www.linkedin.com/in/jorge-barrera-ceballos-b4973738/) (2020-2021)
 
 * **Professor**  
-  *Jan 2022 - Dec 2023. [Universidad de Guadalajara](http://mcd.cucea.udg.mx), Remote*  
-  * In charge of Project Development I & II courses for UDG's [Master of Data Science program](http://mcd.cucea.udg.mx).
+  *Jan 2022 - NOW. [Universidad de Guadalajara](http://mcd.cucea.udg.mx), Remote*  
+  *-Master in Data Science-*  
+  * In charge of Project Development I & II courses for UDG's [MDS program](http://mcd.cucea.udg.mx).
   * Coordinator: [Ana Rosa Jimenez](https://www.linkedin.com/in/ana-rosa-jiménez-158a057b/) (Jan. 2022 - Dec. 2023)
+
+* **Innovation and Development**  
+  *Jan 2023 - Aug 2024. [Universidad Cristobal Colon](https://www.ucc.mx), Remote*  
+  *-Actuarial Department-*
+  * Designed the Master in Data Science and Bachelor degree in Data Science and Business Intelligence programs, headed by the Academic Division of Engineering, Architecture and Actuarial Science
+  * Coordinator: [Sergio Roman-Jara](https://www.linkedin.com/in/sergio-roman-jara-608ab837/?originalSubdomain=mx) (Jan. 2023 - now)
 
 * **UBC MDS Capstone Project with BC Stats**  
   *May 2020 - Jun 2020. [BC Stats](https://www2.gov.bc.ca/gov/content/data/about-data-management/bc-stats), Vancouver (Canada)*  
@@ -55,6 +59,7 @@ Work experience
 
 * **Researcher**   
   *May 2014 - Jul 2019. [Banco de Mexico](https://www.banxico.org.mx), Mexico City*  
+  *-Surveys & Opinion Studies-*  
   * Collaborated in diverse studies and projects related with Currency, their process and strategies that improve the circulation of banknotes and coins.
   * Analyzed databases related with Cash operations reported by Commercial Banks.
   * Drafted reports, notes and documents about the projects developed by the area.
@@ -62,6 +67,7 @@ Work experience
 
 * **Operation Analyst**  
   *Sep 2007 - Jun 2012. [Banco de Mexico](https://www.banxico.org.mx), Veracruz*  
+  *-Planning Department / Cash Regional Office-*  
   * Collaborated in diverse studies and projects related with Currency.
   * Forecasted regional demand of banknotes.
   * Responsible of the Cashier Office in absence of the head of the area.
