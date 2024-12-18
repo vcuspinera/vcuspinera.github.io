@@ -9,25 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-=======
-* **[Master of Data Science](https://masterdatascience.ubc.ca)**  
-  *2019 - 2020. [The University of British Columbia](https://www.ubc.ca) - Vancouver, BC, Canada*  
-  * Intensive program that integrates Programming and Statistics, to analyze data, uncover insights, and  effectively communicate results.
-  * Courses as Programming, Databases, Data Wrangling, Visualization, Statistics, Inference, Regressions, Supervised and Unsupervised Learning, Spatial and Temporal Models, Web and Cloud Computing, Advance Machine Learning.
-  * Capstone Project: "Text Analytics, Quantifying the Responses to Open-Ended Survey Questions", with BC Stats.
-
-* **[Master of Economics](https://poole.ncsu.edu/gradecon/)**  
-  *2012 - 2014. [North Carolina State University](https://www.ncsu.edu) - Raleigh, NC, USA*  
-  * Graduate Economics program with Theoretical and Applied balance.
-  * Core courses in Microeconomics, Macroeconomics, Econometrics, and electives as International Economics, Economic Development, Public Finance, Writing in Economics.
-
-* **[Bachelor in Actuarial Science](https://www.udlap.mx/ofertaacademica/Default.aspx?cveCarrera=LAT&idioma=2)**  
-  *2002 - 2006. [Universidad de las Americas Puebla](https://www.udlap.mx/web/en/) - Cholula, PUE, Mexico*  
-  * Program of applied Mathematics and Statistics to assess risk in Insurance and Finance.
-  * Courses in Calculus, Linear Algebra, Analytic Geometry, Probability, Statistics, Inference, Optimization, Application of Mathematics in Finance and Actuarial Science.
-  * Dissertation: Portfolio Investments with Scenarios using Heuristics.
-
 Work experience
 =======
 * **Researcher**  
@@ -78,6 +59,25 @@ Work experience
   * Analyzed data to generate periodic reports for Financial and Actuarial departments as Cash Flow, Dynamic Solvency, Financial Reporting and Foreign Exchange.
   * Drafted guides for usage of reports and documents analyzed in the Office.
   * Supervisor: [Mariana Benito](https://www.linkedin.com/in/mariana-benito-24187090/)
+
+Education
+=======
+* **[Master of Data Science](https://masterdatascience.ubc.ca)**  
+  *2019 - 2020. [The University of British Columbia](https://www.ubc.ca) - Vancouver, BC, Canada*  
+  * Intensive program that integrates Programming and Statistics, to analyze data, uncover insights, and  effectively communicate results.
+  * Courses as Programming, Databases, Data Wrangling, Visualization, Statistics, Inference, Regressions, Supervised and Unsupervised Learning, Spatial and Temporal Models, Web and Cloud Computing, Advance Machine Learning.
+  * Capstone Project: "Text Analytics, Quantifying the Responses to Open-Ended Survey Questions", with BC Stats.
+
+* **[Master of Economics](https://poole.ncsu.edu/gradecon/)**  
+  *2012 - 2014. [North Carolina State University](https://www.ncsu.edu) - Raleigh, NC, USA*  
+  * Graduate Economics program with Theoretical and Applied balance.
+  * Core courses in Microeconomics, Macroeconomics, Econometrics, and electives as International Economics, Economic Development, Public Finance, Writing in Economics.
+
+* **[Bachelor in Actuarial Science](https://www.udlap.mx/ofertaacademica/Default.aspx?cveCarrera=LAT&idioma=2)**  
+  *2002 - 2006. [Universidad de las Americas Puebla](https://www.udlap.mx/web/en/) - Cholula, PUE, Mexico*  
+  * Program of applied Mathematics and Statistics to assess risk in Insurance and Finance.
+  * Courses in Calculus, Linear Algebra, Analytic Geometry, Probability, Statistics, Inference, Optimization, Application of Mathematics in Finance and Actuarial Science.
+  * Dissertation: Portfolio Investments with Scenarios using Heuristics.
 
 Technical Skills
 =======
